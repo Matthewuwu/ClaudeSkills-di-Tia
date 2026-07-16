@@ -1,72 +1,87 @@
 #!/usr/bin/env bash
-# Import your custom skills from a local machine INTO this repo.
+# Import custom Claude skills from their REAL locations on this machine into
+# this repo, then you review + commit + push.
 #
-# Run this ON THE MACHINE WHERE YOUR SKILLS LIVE (e.g. CachyOS), where
-# ~/.claude/skills contains the real skill folders. A cloud session cannot
-# reach your laptop, so populating the repo has to happen from your side.
+# Skills are not stored in a single ~/.claude/skills folder. They are scattered:
+#   - personal skills  -> ~/.config/Claude/local-agent-mode-sessions/skills-plugin/**/skills
+#   - superpowers       -> ~/.claude/plugins/cache/**/superpowers/**/skills
+#   - caveman           -> ~/.claude/plugins/**/caveman/**/skills
+#   - anything you put  -> ~/.claude/skills
+#
+# Every folder that contains a SKILL.md is copied to the repo root as a
+# top-level skill (plugin sub-skills are flattened), minus a denylist of
+# Anthropic/cowork defaults. First source wins on name collisions.
 #
 # Usage:
-#   cd /path/to/ClaudeSkills-di-Tia
-#   ./scripts/import-local-skills.sh            # reads ~/.claude/skills
-#   ./scripts/import-local-skills.sh /some/dir  # or a custom source
-#   git add -A && git commit -m "Import skills" && git push
-set -euo pipefail
+#   ./scripts/import-local-skills.sh            # copy
+#   DRY_RUN=1 ./scripts/import-local-skills.sh  # just show what it would copy
+set -uo pipefail
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-SRC="${1:-$HOME/.claude/skills}"
+DRY_RUN="${DRY_RUN:-0}"
 
-if [ ! -d "$SRC" ]; then
-  echo "Source skills directory not found: $SRC" >&2
+# Defaults / infra we never vendor (already present in every environment).
+DENYLIST=" pdf docx xlsx pptx morning skill-creator schedule setup-cowork \
+consolidate-memory example-skill example-command playground "
+
+# Source "skills" directories, in PRIORITY order (first match of a name wins).
+SRC_DIRS=()
+add_dir() { [ -d "$1" ] && SRC_DIRS+=("$1"); }
+add_find() { while IFS= read -r p; do [ -n "$p" ] && SRC_DIRS+=("$p"); done < <("$@"); }
+
+add_dir "$HOME/.claude/skills"
+# personal skills (scoped to skills-plugin so finance/rpm plugins are ignored)
+while IFS= read -r p; do SRC_DIRS+=("$p"); done < <(
+  find "$HOME/.config/Claude/local-agent-mode-sessions/skills-plugin" \
+       -type d -name skills 2>/dev/null | sort)
+# superpowers (highest version last -> take it first)
+while IFS= read -r p; do SRC_DIRS+=("$p"); done < <(
+  find "$HOME/.claude/plugins/cache" -type d -path '*superpowers*/skills' \
+       2>/dev/null | sort -r)
+# caveman (marketplace copy has the full set)
+while IFS= read -r p; do SRC_DIRS+=("$p"); done < <(
+  find "$HOME/.claude/plugins/marketplaces" -type d -path '*caveman*/skills' \
+       2>/dev/null | sort)
+
+if [ "${#SRC_DIRS[@]}" -eq 0 ]; then
+  echo "No skill source directories found on this machine." >&2
   exit 1
 fi
 
-# Skills named in the setup handoff (order preserved for the report).
-WANTED=(superpowers ponytail impeccable obsidian-skills caveman \
-        relazione-servizio-pp verbale-stradale foglio-viaggio-pp \
-        statuto-agente-pp handoff)
+echo "Scanning sources:"; printf '  %s\n' "${SRC_DIRS[@]}"; echo
 
-echo "Importing skills from: $SRC"
-echo "Into repo:             $REPO_DIR"
-echo
-
+declare -A SEEN
 imported=()
-missing=()
-
-copy_skill() {
-  local src="$1" name="$2"
-  rm -rf "${REPO_DIR:?}/$name"
-  cp -r "$src" "$REPO_DIR/$name"
-  imported+=("$name")
-}
-
-is_imported() {
-  local n="$1" x
-  for x in "${imported[@]:-}"; do [ "$x" = "$n" ] && return 0; done
-  return 1
-}
-
-# 1) The explicitly wanted skills.
-for name in "${WANTED[@]}"; do
-  if [ -d "$SRC/$name" ] && [ -f "$SRC/$name/SKILL.md" ]; then
-    copy_skill "$SRC/$name" "$name"
-  else
-    missing+=("$name")
-  fi
+skipped_default=()
+for d in "${SRC_DIRS[@]}"; do
+  [ -d "$d" ] || continue
+  for skill in "$d"/*/; do
+    [ -d "$skill" ] || continue
+    [ -f "${skill}SKILL.md" ] || continue
+    name="$(basename "$skill")"
+    case "$DENYLIST" in *" $name "*) skipped_default+=("$name"); continue ;; esac
+    [ -n "${SEEN[$name]:-}" ] && continue
+    SEEN[$name]=1
+    if [ "$DRY_RUN" = "1" ]; then
+      imported+=("$name  <- $skill")
+    else
+      rm -rf "${REPO_DIR:?}/$name"
+      cp -r "$skill" "$REPO_DIR/$name"
+      imported+=("$name")
+    fi
+  done
 done
 
-# 2) Any other local skill folder (dir with a SKILL.md), except the built-in.
-for dir in "$SRC"/*/; do
-  [ -d "$dir" ] || continue
-  name="$(basename "$dir")"
-  [ -f "$dir/SKILL.md" ] || continue
-  case "$name" in session-start-hook) continue ;; esac
-  is_imported "$name" && continue
-  copy_skill "$dir" "$name"
-done
-
-echo "Imported (${#imported[@]}): ${imported[*]:-none}"
-echo "Missing  (${#missing[@]}): ${missing[*]:-none}"
+echo "Imported ${#imported[@]} skill(s):"
+printf '  %s\n' "${imported[@]}" | sort
+if [ "${#skipped_default[@]}" -gt 0 ]; then
+  echo
+  echo "Skipped defaults: $(printf '%s ' "${skipped_default[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' ')"
+fi
 echo
-echo "Next:"
-echo "  cd \"$REPO_DIR\""
-echo "  git add -A && git commit -m 'Import skills' && git push"
+if [ "$DRY_RUN" = "1" ]; then
+  echo "(dry run — nothing copied. Re-run without DRY_RUN=1 to copy.)"
+else
+  echo "Review with 'git status' / 'git diff --stat', then:"
+  echo "  git add -A && git commit -m 'Import skills' && git push"
+fi
