@@ -1,0 +1,8 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local Claude Code overrides (do not share machine-specific settings)
+.claude/settings.local.json
