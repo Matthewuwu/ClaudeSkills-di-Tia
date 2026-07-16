@@ -1,0 +1,1504 @@
+{
+  "fonte": "Prontuario Violazioni CDS — Ancillotti, Carmagnini, Ferri — Addendum Settembre 2023 — Maggioli Editore",
+  "articoli_coperti": [
+    "6",
+    "7",
+    "10",
+    "78",
+    "79",
+    "135",
+    "142",
+    "164",
+    "193",
+    "213",
+    "258",
+    "259",
+    "260-bis"
+  ],
+  "avvertenza": "SOLO addendum settembre 2023. Art. 157, 158 e altri non inclusi → consultare edizione base.",
+  "violazioni": [
+    {
+      "articolo": "6",
+      "commi": "commi 1 e 12",
+      "numero_caso": "1",
+      "titolo": "Circolare nel periodo di sospensione della circolazione con veicolo non adibito al trasporto cose",
+      "sanzione_da": 173.0,
+      "sanzione_a": 694.0,
+      "riduzione_5gg": 121.1,
+      "riduzione_meta_massimo": 347.0,
+      "riduzione_doppio_minimo": 346.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato, non adibito al trasporto di cose, circolava fuori dal centro abitato nel periodo di sospensione della circolazione disposto … > vedi Casi (con ordinanza numero ….).",
+      "casi": [
+        "1.1 per motivi di tutela della salute",
+        "1.2 per motivi di sicurezza pubblica",
+        "1.3 per motivi di sicurezza della circolazione",
+        "1.4 per motivi di carattere militare"
+      ],
+      "note_operative": [
+        "(1) Ambito di applicazione. Va distinta la presente ipotesi da quella del semplice divieto di circolazione o della limitazione della",
+        "(2) Normativa attuativa. Il decreto prefettizio deliberativo – attuativo dei provvedimenti ministeriali di divieto della",
+        "(3) Comportamento operativo. L’agente intima al conducente di non proseguire la marcia sino al termine del divieto e cura",
+        "(4) Ordinanza di sospensione. Indicare il numero dell’ordinanza che ha disposto la sospensione dalla circolazione.",
+        "(5) Deroghe per titolari contrassegno invalidi. Ai sensi dell’articolo 11 del d.P.R. 503/96, alle persone detentrici del"
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 1 e 12",
+      "numero_caso": "2",
+      "titolo": "Circolare nel periodo di sospensione della circolazione con veicolo destinato al trasporto cose",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": 865.5,
+      "riduzione_doppio_minimo": 860.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della patente da 1 a 4 mesi (da 2 a 6 mesi in caso di",
+      "testo_precompilato": "Il conducente del veicolo indicato, adibito al trasporto di cose, di massa complessiva ..., circolava fuori del centro abitato, … > vedi Casi.",
+      "casi": [
+        "2.1 nel periodo di sospensione della circolazione ssato ai sensi del decreto del Ministero delle infrastrutture e",
+        "2.2 nel periodo di sospensione della circolazione per motivi di tutela della salute (disposto con ordinanza"
+      ],
+      "note_operative": [
+        "(6) Vedi note del caso precedente.",
+        "(7) Sanzioni accessorie. L’agente ritira la patente di guida ai ni dell’applicazione della sanzione accessoria della",
+        "(8) Fermo veicolo. Per l’applicazione del fermo amministrativo del veicolo vedi le modalità operative riassunte nella sezione",
+        "(9) Deroghe e direttive."
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 2 e 13",
+      "numero_caso": "3",
+      "titolo": "Condurre greggi o armenti in violazione dei provvedimenti",
+      "sanzione_da": 26.0,
+      "sanzione_a": 102.0,
+      "riduzione_5gg": 18.2,
+      "riduzione_meta_massimo": 51.0,
+      "riduzione_doppio_minimo": 52.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Conduceva ... > vedi Casi non osservando le prescrizioni del provvedimento del prefetto (ordinanza numero ....) (10).",
+      "casi": [
+        "3.1 armenti",
+        "3.2 greggi"
+      ],
+      "note_operative": [
+        "(10) Denizioni. Per gregge si intende un raggruppamento di pecore o capre; per armenti si intende, in via residuale, un",
+        "(11) Descrizione. Specicare quale prescrizione non è stata osservata (ad esempio in relazione agli itinerari consentiti,",
+        "(12) Ordinanza aggressione cani. Le disposizioni delle ordinanze contingibili e urgenti del Ministero della salute concernenti la"
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. a) e 14",
+      "numero_caso": "4",
+      "titolo": "Circolare nel periodo di sospensione della circolazione per particolari esigenze",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato circolava nonostante il periodo di sospensione della circolazione ordinato per … > vedi Casi.",
+      "casi": [
+        "4.1 motivi di incolumità pubblica (ordinanza numero ….)",
+        "4.2 urgenti e improrogabili motivi attinenti la tutela del patrimonio stradale (ordinanza numero ….)",
+        "4.3 esigenze di carattere tecnico (ordinanza numero ….)"
+      ],
+      "note_operative": [
+        "(16) Ambito di applicazione. Il caso si differenzia dall’ipotesi 1; la competenza a emanare l’ordinanza è dell’ente proprietario della",
+        "(17) Ordinanza di sospensione. Indicare il numero dell’ordinanza che ha disposto la sospensione dalla circolazione.",
+        "(18) Autorizzazioni in deroga. Possono essere rilasciate apposite autorizzazioni in deroga alla sospensione.",
+        "(19) Comportamento operativo. Non sono previste speciche intimazioni, come nel caso del comma 12 dell’articolo 6; tuttavia",
+        "(13) Età. Il conduttore del gregge o degli armenti deve aver compiuto 14 anni (vedi articolo 115 del codice della strada).",
+        "(14) Rinvio. Per le prescrizioni relative alla circolazione degli animali si vedano i casi relativi all’articolo 184 del codice della strada.",
+        "(15) Disposizioni locali. Deve essere vericata l’esistenza di eventuali provvedimenti a livello locale (regolamenti, ordinanze) di",
+        "(20) Vedi nota 5."
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. b) e 14",
+      "numero_caso": "5",
+      "titolo": "Non rispettare i segnali di obbligo",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato, fuori del centro abitato, non rispettava le prescrizioni della segnaletica. Nella circostanza … > vedi Casi.",
+      "casi": [
+        "5.1 non rispettava l’obbligo di procedere diritto (g. II 80/a)",
+        "5.2 non rispettava l’obbligo di svoltare a sinistra (g. II 80/b)",
+        "5.3 non rispettava l’obbligo di svoltare a destra (g. II 80/c)",
+        "5.4 proseguiva a diritto nonostante il segnale di direzioni consentite a destra e sinistra (g. II 81/a)",
+        "5.5 svoltava a sinistra nonostante il segnale di direzioni consentite a diritto e destra (g. II 81/b)",
+        "5.6 svoltava a destra nonostante il segnale di direzioni consentite a diritto e sinistra (g. II 81/c)",
+        "5.7 non rispettava l’obbligo di passaggio obbligatorio a destra (g. II 82/a)",
+        "5.8 non rispettava l’obbligo di passaggio obbligatorio a sinistra (g. II 82/b)",
+        "5.9 non rispettava i passaggi consentiti a destra e sinistra (g. II 83)",
+        "5.10 non rispettava il senso di marcia della rotatoria (g. II 84)"
+      ],
+      "note_operative": []
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. b) e 14",
+      "numero_caso": "6",
+      "titolo": "Non rispettare i segnali di divieto in genere",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato, fuori del centro abitato, non rispettava i divieti imposti dalla segnaletica. Nella circostanza … > vedi Casi.",
+      "casi": [
+        "6.1 non concedeva la precedenza alla corrente di trafco proveniente in senso inverso nel senso unico",
+        "6.2 circolava in una strada dove è vietata la circolazione nei due sensi (g. II 46)",
+        "6.3 circolava contro il senso di marcia stabilito dal segnale (g. II 47)",
+        "6.4 effettuava il sorpasso nonostante il segnale di divieto (g. II 48) (22) (23)",
+        "6.5 seguiva un veicolo a una distanza inferiore da quella indicata sul segnale (g. II 49) (24)",
+        "6.6 utilizzava gli avvisatori acustici nonostante il divieto e in assenza di un pericolo immediato (g. II 51) (25)",
+        "6.7 circolava alla guida di un veicolo a trazione animale nonostante il divieto (g. II 53)",
+        "6.8 quale pedone transitava nonostante il divieto (g. II 54)"
+      ],
+      "note_operative": [
+        "(21) Ambito applicativo dei provvedimenti di trafco. L’articolo 1 del d.l. 10 settembre 2021, n. 121 convertito nella legge 9"
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. b) e 14",
+      "numero_caso": "7",
+      "titolo": "Divieto di sosta o di parcheggio",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato … > vedi Casi.",
+      "casi": [
+        "7.1 sostava nonostante il divieto di sosta (g. II 74) (27)",
+        "7.2 sostava nonostante il divieto di sosta e di fermata (g. II 75) (28)"
+      ],
+      "note_operative": [
+        "(27) Rimozione. Può essere prevista la rimozione con l’apposito pannello integrativo. In questo caso la rimozione è disposta ai",
+        "(28) Estensione del divieto e rimozione. Il divieto di sosta e di fermata è comunque permanente e vieta anche l’arresto",
+        "(29) Sosta prolungata. Se la sosta irregolare si protrae per più di 60 giorni si procede ai sensi del d.m. 22 ottobre 1999, n. 460,",
+        "(30) Estensione temporale del divieto. Il divieto, salva diversa indicazione da rendere nota con i pannelli integrativi, fuori dei",
+        "(31) Sosta con grave intralcio o pericolo. Se la sosta reca pericolo o grave intralcio alla circolazione deve essere disposta",
+        "(32) Disabili. Alle persone detentrici del contrassegno di parcheggio per disabili viene consentita, dalle autorità competenti,",
+        "(33) Rapporto di specialità. Gli articoli 157 e 158 c.d.s., oltre a norme di comportamento che riguardano la sosta e la fermata,"
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. c) e 14",
+      "numero_caso": "10",
+      "titolo": "Circolare nelle corsie riservate",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato circolava … > vedi Casi (specicare a quali tipi di veicoli o usi è riservata la corsia).",
+      "casi": [
+        "10.1 in una corsia riservata a determinate categorie di veicoli",
+        "10.2 in una corsia riservata a veicoli destinati a determinati usi"
+      ],
+      "note_operative": []
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. e) e 14",
+      "numero_caso": "11",
+      "titolo": "Circolare senza pneumatici invernali o catene",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "71 Note anche dal personale ispettivo delle aziende esercenti il trasporto pubblico di persone previa nomina del sindaco ai sensi dell’articolo 12-bis del codice della strada (c.d. ausiliari del trafco). In verità l’articolo 12-bis del codice della strada individua una competenza per l’accertamento della circolazione abusiva nelle strade riservate, ma il Ministero dell’interno ha ritenuto che la competenza possa intendersi estesa anche alle singole corsie riservate che fanno parte della carreggiata a circolazione promiscua. strada. dalle altre corsie di marcia mediante due strisce continue afancate, una bianca di 12 cm di lunghezza ed una gialla di 30 cm, distanziate tra loro di 12 cm; la striscia gialla deve essere posta sul lato della corsia riservata (g. II 427/a). con funzione di indicazione utile per la guida. o nelle corsie preferenziali riservati oltre che ai mezzi di trasporto pubblico collettivo anche ai taxi, la circolazione deve intendersi consentita anche ai veicoli al servizio di persone invalide detentrici dello speciale contrassegno. La circolazione può essere consentita anche ai conducenti dei veicoli e dei veicoli ad essi assimilati, ma il Ministero dell’interno ha chiarito che la novità non introduce una deroga generalizzata, ma prevede che tali conducenti, in presenza di specica ordinanza del sindaco (che pertanto dovrà valutarne la fattibilità tecnica), possano impegnare tali corsie solo ove sia presente idonea segnaletica che lo consenta. In tutti gli altri casi, anche per questi veicoli, resta il divieto. e delle altre facilitazioni alla circolazione previste per i taxi e gli altri servizi pubblici (art. 11, comma 3, della legge 15 gennaio 1992, n. 21). Alla guida del veicolo indicato circolava fuori del centro abitato … > vedi Casi come prescritto dalla segnaletica stradale.",
+      "casi": [
+        "11.1 senza avere a bordo mezzi antisdrucciolevoli o pneumatici invernali idonei alla marcia su neve o su ghiaccio",
+        "11.2 senza aver installato i mezzi antisdrucciolevoli o pneumatici invernali idonei alla marcia su neve o su ghiaccio"
+      ],
+      "note_operative": [
+        "(44) Ausiliari del trafco. Se si tratta di corsie riservate al trasporto pubblico di persone la violazione può essere accertata",
+        "(45) Sosta nella corsia riservata. Per la sosta nelle corsie riservate si veda l’ipotesi specica dell’articolo 158 del codice della",
+        "(46) Corsie riservate. Le corsie riservate, qualora non protette da elementi in elevazione sulla pavimentazione, sono separate",
+        "(47) Segnaletica per corsie riservate. L’uso delle corsie può essere reso più evidente dal segnale g. II 339 del regolamento,",
+        "(48) Deroghe al divieto di circolazione nelle corsie riservate. Ai sensi dell’articolo 11 del d.P.R. 503/96, nei percorsi preferenziali",
+        "(49) Deroghe per NCC. Ai veicoli adibiti a servizio di noleggio con conducente è consentito l’uso delle corsie preferenziali",
+        "(50) Ordine di fermarsi. Ai sensi dell’articolo 192, comma 3, c.d.s., i funzionari, ufciali ed agenti ai quali spetta l’espletamento",
+        "(51) Circolazione invernale. Il Ministero delle infrastrutture e dei trasporti, ai sensi dell’articolo 5 del codice della strada, ha",
+        "(52) Pneumatici invernali. Quanto al fatto che gli pneumatici invernali costituiscono un mezzo antisdrucciolevole",
+        "(53) Omologazione catene. Dal 1° maggio 2002, le catene da neve destinate all’impiego su veicoli della categoria M1"
+      ]
+    },
+    {
+      "articolo": "6",
+      "commi": "commi 4, lett. f) e 14",
+      "numero_caso": "12",
+      "titolo": "Divieto temporaneo di sosta per esigenze di carattere tecnico o di pulizia",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo sostava … > vedi Casi.",
+      "casi": [
+        "12.1 nonostante il divieto di sosta temporaneo per la pulizia del fondo stradale (57)",
+        "12.2 nonostante il divieto di sosta temporaneo per esigenze di carattere tecnico (58)"
+      ],
+      "note_operative": [
+        "(56) Segnaletica temporanea. La segnaletica temporanea deve essere collocata almeno 48 ore prima dell’inizio del divieto.",
+        "(57) Pannello integrativo. Spesso viene aggiunto il pannello integrativo che indica la rimozione forzata, anche se in realtà",
+        "(58) Rimozione forzata. Si ritiene che in questo caso sia necessario il pannello integrativo se l’ente proprietario della strada"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 13",
+      "numero_caso": "1",
+      "titolo": "Circolare nel periodo di sospensione della circolazione",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato circolava nel periodo di sospensione della circolazione disposto … > vedi Casi come da relativa segnaletica (con ordinanza numero ….).",
+      "casi": [
+        "1.1 per motivi di tutela della salute",
+        "1.2 per motivi di sicurezza pubblica",
+        "1.3 per motivi di sicurezza della circolazione",
+        "1.4 per motivi di carattere militare"
+      ],
+      "note_operative": [
+        "(1) Comportamento operativo. Non sono previste speciche intimazioni; tuttavia è evidente che la circolazione non può",
+        "(2) Ambito di applicazione. Secondo la nota del Ministero dell’interno prot. M/2413/34 del 23 dicembre 1999 la presente ipotesi",
+        "(3) Deroghe per disabili. Ai sensi dell’articolo 11 del d.P.R. 503/96, alle persone detentrici del contrassegno di parcheggio per disabili"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "2",
+      "titolo": "Condurre greggi o armenti in violazione dei provvedimenti",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Conduceva in centro abitato … > vedi Casi non osservando le prescrizioni ivi previste.",
+      "casi": [
+        "2.1 armenti in violazione dei provvedimenti",
+        "2.2 greggi in violazione dei provvedimenti"
+      ],
+      "note_operative": [
+        "(4) Denizioni. Per gregge si intende un raggruppamento di pecore o capre; per armenti si intende, in via residuale, un",
+        "(5) Descrizione violazione. Specicare quale prescrizione non è stata osservata (ad esempio in relazione agli itinerari",
+        "(6) Ordinanze cani. Le disposizioni delle ordinanze contingibili ed urgenti del Ministero della salute concernenti la tutela",
+        "(7) Età conduttore. Il conduttore del gregge o degli armenti deve aver compiuto 14 anni (vedi articolo 115 del codice della strada).",
+        "(8) Rinvio. Per le prescrizioni relative alla circolazione degli animali si vedano i casi relativi all’articolo 184 del codice della strada.",
+        "(9) Disposizioni locali. Deve essere vericata l’esistenza di eventuali provvedimenti a livello locale (regolamenti, ordinanze) di"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "3",
+      "titolo": "Circolare senza pneumatici invernali o catene",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 339.0,
+      "riduzione_doppio_minimo": 336.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente di veicolo indicato circolava all’interno del centro abitato … > vedi Casi come prescritto dalla segnaletica stradale.",
+      "casi": [
+        "3.1 senza avere a bordo mezzi antisdrucciolevoli o pneumatici invernali idonei alla marcia su neve o su ghiaccio",
+        "3.2 senza aver installato i mezzi antisdrucciolevoli o pneumatici invernali idonei alla marcia su neve o su"
+      ],
+      "note_operative": [
+        "(10) Ordine di fermarsi. Ai sensi dell’articolo 192, comma 3, c.d.s., i funzionari, ufciali ed agenti ai quali spetta l’espletamento dei",
+        "(11) Circolazione invernale. Il Ministero delle infrastrutture e dei trasporti, ai sensi dell’articolo 5 del codice della strada,",
+        "(12) Pneumatici invernali. Quanto al fatto che gli pneumatici invernali costituiscono un mezzo antisdrucciolevole alternativo",
+        "(13) Omologazione catene. Dal 1° maggio 2002, le catene da neve destinate all’impiego su veicoli della categoria M1 devono",
+        "(14) Caratteristiche catene. Le catene sono individuate dalle misure degli pneumatici cui sono destinate. Una catena può",
+        "(15) Lo pneumatico invernale. È riconoscibile per la sigla M+S, ovvero, in alternativa, M-S, M&S o MS, stampata nel anco,",
+        "(16) Per maggiori dettagli si rinvia alle Schede on line su www.prontuariocodicedellastrada.it.",
+        "(17) Classe Euro. Per individuare la classe Euro di appartenenza del veicolo si può controllare il documento di circolazione,",
+        "(18) Sanzione accessoria. L’agente ritira la patente di guida ai ni dell’applicazione della sanzione accessoria della sospensione"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "comma 13-bis",
+      "numero_caso": "5",
+      "titolo": "Zona scolastica – omesso rispetto delle speciche prescrizioni",
+      "sanzione_da": 168.0,
+      "sanzione_a": 678.0,
+      "riduzione_5gg": 117.6,
+      "riduzione_meta_massimo": 339.0,
+      "riduzione_doppio_minimo": 336.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Nel luogo sopra indicato, all’interno della zona scolastica, non rispettava la prescrizione stabilita con ordinanza ai sensi dell’articolo 7, comma 11-bis del codice della strada (specicare quale specica prescrizione relativa alla circolazione, sosta o fermata è stata violata). Note particolare protezione dei pedoni e dell’ambiente, delimitata lungo le vie di accesso dagli appositi segnali di inizio e di ne.",
+      "casi": [],
+      "note_operative": [
+        "(21) Denizione. Si tratta di una zona urbana in prossimità della quale si trovano edici adibiti ad uso scolastico, in cui è garantita una",
+        "(22) Ambito di applicazione. Nelle zone scolastiche urbane può essere limitata o esclusa la circolazione, la sosta o la fermata di"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "6",
+      "titolo": "Non rispettare i segnali di obbligo",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato, circolava all’interno del centro abitato, non rispettando le prescrizioni imposte dalla segnaletica. Nella circostanza … > vedi Casi.",
+      "casi": [
+        "6.1 non rispettava l’obbligo di procedere diritto (g. II 80/a)",
+        "6.2 non rispettava l’obbligo di svoltare a sinistra (g. II 80/b)",
+        "6.3 non rispettava l’obbligo di svoltare a destra (g. II 80/c)",
+        "6.4 proseguiva a diritto nonostante il segnale di direzioni consentite a destra e sinistra (g. II 81/a)",
+        "6.5 svoltava a sinistra nonostante il segnale di direzioni consentite a diritto e destra (g. II 81/b)",
+        "6.6 svoltava a destra nonostante il segnale di direzioni consentite a diritto e sinistra (g. II 81/c)",
+        "6.7 non rispettava l’obbligo di passaggio obbligatorio a destra (g. II 82/a)",
+        "6.8 non rispettava l’obbligo di passaggio obbligatorio a sinistra (g. II 82/b)",
+        "6.9 non rispettava i passaggi consentiti a destra e sinistra (g. II 83)",
+        "6.10 non rispettava il senso di marcia della rotatoria (g. II 84)",
+        "6.11 circolava nel percorso pedonale pur appartenendo ad altra categoria di utenti della strada (g. II 88)"
+      ],
+      "note_operative": []
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "7",
+      "titolo": "Non rispettare i segnali di divieto in genere",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato, circolava all’interno del centro abitato, non rispettando i divieti imposti dalla segnaletica. Nella circostanza … > vedi Casi.",
+      "casi": [
+        "7.1 non concedeva la precedenza alla corrente di trafco proveniente in senso inverso nel senso unico",
+        "7.2 circolava in una strada dove è vietata la circolazione nei due sensi (g. II 46)",
+        "7.3 circolava contro il senso di marcia stabilito dal segnale (g. II 47)",
+        "7.4 effettuava il sorpasso nonostante il segnale di divieto (g. II 48) (23) (24)",
+        "7.5 seguiva un veicolo a una distanza inferiore da quella indicata sul segnale (g. II 49) (25)",
+        "7.6 utilizzava gli avvisatori acustici nonostante il divieto e in assenza di un pericolo immediato (g. II 51) (26)",
+        "7.7 circolava alla guida di un veicolo a trazione animale nonostante il divieto (g. II 53)",
+        "7.8 quale pedone transitava nonostante il divieto (g. II 54)",
+        "7.9 quale ciclista transitava nonostante il divieto (g. II 55)",
+        "7.10 quale conducente di motociclo transitava nonostante il divieto (g. II 56)"
+      ],
+      "note_operative": [
+        "(23) Ambito di applicazione del divieto. Il divieto vale anche se la manovra può compiersi entro la semicarreggiata, con o",
+        "(24) Veicoli pesanti. Per i veicoli di massa complessiva superiore a 3,5 tonnellate, vedi caso relativo all’articolo 148, comma",
+        "(25) Concorso di violazioni. La violazione può concorrere con quella dell’articolo 149 del codice della strada.",
+        "(26) Concorso di violazioni. La violazione può concorrere con quella dell’articolo 156 del codice della strada."
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "8",
+      "titolo": "Divieto di sosta, di fermata e spazi riservati",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Rimozione se prevista da pannello integrativo o nei casi di grave intralcio e pericolo per la circolazione (27)",
+      "testo_precompilato": "Il conducente del veicolo indicato … > vedi Casi.",
+      "casi": [
+        "8.1 lo lasciava in sosta nonostante il divieto di sosta (g. II 74) (29)",
+        "8.2 lo lasciava in sosta nonostante il divieto di fermata (g. II 75) (30)",
+        "8.3 effettuava la fermata nonostante il divieto (g. II 75) (30)",
+        "8.4 lo lasciava in sosta nello spazio riservato ai veicoli adibiti al pronto soccorso (g. II 79/b) (31)",
+        "8.5 lo lasciava in sosta nello spazio riservato ai veicoli delle Forze Armate (g. II 79/c) (31)",
+        "8.6 lo lasciava in sosta nello spazio riservato ai veicoli della Polizia di Stato (g. II 79/c) (31)",
+        "8.7 lo lasciava in sosta nello spazio riservato ai veicoli dei Vigili del fuoco (g. II 79/c) (31)",
+        "8.8 lo lasciava in sosta nello spazio riservato ai veicoli della Polizia Municipale (g. II 79/c) (31)",
+        "8.9 lo lasciava in sosta nello spazio riservato ai veicoli di pubblico interesse indicati nel segnale (g. II 79/c) (31)",
+        "8.10 lo lasciava in sosta nello spazio riservato ai veicoli di pubblico soccorso indicati nel segnale (g. II 79/c) (31)",
+        "8.11 lo lasciava in sosta negli spazi riservati ad altre categorie di veicoli indicati nel pannello integrativo (g. II 76) (31)",
+        "8.12 lo lasciava in sosta negli spazi riservati ad altre categorie di utenti indicati nel pannello integrativo (g. II 76) (31)",
+        "8.13 lo lasciava in sosta negli spazi di sosta riservati ai servizi di linea per lo stazionamento ai capilinea",
+        "8.14 lo lasciava in sosta in un’area riservata alla sosta e al parcheggio delle autocaravan"
+      ],
+      "note_operative": [
+        "(27) Rimozione. Può essere prevista la rimozione con l’apposito pannello integrativo. In questo caso la rimozione è disposta ai",
+        "(28) Sosta prolungata oltre 60 giorni. Se la sosta irregolare si protrae per più di 60 giorni si procede ai sensi del d.m. 22 ottobre",
+        "(29) Estensione temporale del divieto. Il divieto, salva diversa indicazione da rendere nota con i pannelli integrativi, nei centri",
+        "(30) Estensione del divieto e rimozione. Il divieto di sosta e di fermata è comunque permanente e vieta anche l’arresto",
+        "(31) Prolungamento della sosta. Non trattandosi propriamente di un divieto ma di una limitazione alla sosta, si ritiene che la",
+        "(32) Disabili. Alle persone detentrici del contrassegno di parcheggio per disabili vengono consentite, dalle autorità"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "9",
+      "titolo": "Divieto temporaneo di sosta per esigenze di carattere tecnico o di pulizia",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo sostava … > vedi Casi.",
+      "casi": [
+        "9.1 nonostante il divieto di sosta temporaneo per la pulizia del fondo stradale (34)",
+        "9.2 nonostante il divieto di sosta temporaneo per esigenze di carattere tecnico (35)"
+      ],
+      "note_operative": [
+        "(33) Segnaletica temporanea. La segnaletica temporanea deve essere collocata almeno 48 ore prima dell’inizio del divieto.",
+        "(34) Pannello integrativo rimozione. Spesso viene aggiunto il pannello integrativo che indica la rimozione forzata, anche se"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1, lett. f) e 14",
+      "numero_caso": "10",
+      "titolo": "Sosta o parcheggio a pagamento a tempo illimitato",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo sostava senza effettuare il pagamento della tariffa prescritta in un’area dove la sosta è consentita a pagamento, senza limitazioni di tempo. Note escludere dall’obbligo del pagamento i soggetti autorizzati alla sosta libera. Il segnale PARCHEGGIO (g. II 76) può essere usato per indicare un’area organizzata od attrezzata per sostare per un tempo indeterminato, salvo diversa indicazione. Il segnale",
+      "casi": [],
+      "note_operative": [
+        "(37) Pannelli aggiuntivi. I pannelli aggiuntivi possono limitare la vigenza del divieto a particolari orari e/o in particolari giorni ed",
+        "(38) Sosta oltre il periodo di corresponsione del corrispettivo. La stessa sanzione si applica se il periodo per il quale è stato",
+        "(35) Rimozione veicolo. Si ritiene che in questo caso sia necessario il pannello integrativo se l’ente proprietario della strada",
+        "(36) Disabili. Alle persone detentrici del contrassegno di parcheggio per disabili viene consentita, dalle autorità competenti,",
+        "(39) Sosta prolungata oltre 60 giorni. Se la sosta irregolare si protrae per più di 60 giorni si procede ai sensi del d.m. 22 ottobre",
+        "(40) Reiterazione temporale violazioni. La sanzione si applica ogni 24 ore dalla data di inizio o di accertamento della",
+        "(41) Recupero corrispettivo non pagato. Sono attivabili anche le procedure per il recupero della somma non pagata quale",
+        "(42) Segnaletica stalli di sosta. Gli stalli di sosta a pagamento sono delimitati da strisce di colore blu; la sosta al loro interno",
+        "(43) Veicoli al servizio di invalidi. Nonostante la dottrina e la prassi nel tempo abbiano concluso diversamente, la"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1, lett. f) e 15",
+      "numero_caso": "11",
+      "titolo": "Sosta o parcheggio a pagamento a tempo limitato",
+      "sanzione_da": 26.0,
+      "sanzione_a": 102.0,
+      "riduzione_5gg": 18.2,
+      "riduzione_meta_massimo": 51.0,
+      "riduzione_doppio_minimo": 52.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Note Costituzionale, con la sentenza 111 del 2018, ha concluso che è ragionevole riferire il “periodo” di cui al comma 15 dell’art. 7 del d.lgs. n. 285 del 1992 alla protrazione della sosta oltre la fascia di vigenza giornaliera o infragiornaliera della sosta,",
+      "casi": [],
+      "note_operative": [
+        "(44) Vedi note caso precedente.",
+        "(45) Reiterazione violazione. La sanzione si applica per ogni periodo di sosta abusiva oltre il termine concesso. La Corte",
+        "(46) Omessa attivazione sistema di controllo. Per l’omessa attivazione del sistema di controllo di durata della sosta (disco",
+        "(47) Veicoli al servizio di invalidi. I veicoli al servizio delle persone disabili che espongono l’apposito contrassegno non sono"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1 e 14",
+      "numero_caso": "12",
+      "titolo": "Circolazione nelle corsie riservate ai mezzi pubblici di trasporto",
+      "sanzione_da": 83.0,
+      "sanzione_a": 332.0,
+      "riduzione_5gg": 58.1,
+      "riduzione_meta_massimo": 166.0,
+      "riduzione_doppio_minimo": 166.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Il conducente del veicolo indicato circolava in una corsia riservata ai mezzi pubblici di trasporto. Note strade riservate, in quanto, ancorché l’articolo 7, comma 14 disponga sanzioni per il transito nelle corsie riservate e non parli delle strade riservate, comunque, la strada è sempre composta almeno da una corsia. 89",
+      "casi": [
+        "11.1 oltre il periodo consentito in un’area dove la sosta è consentita a pagamento per una determinata durata",
+        "11.2 oltre il periodo consentito in un’area dove la sosta è consentita gratuitamente per una determinata durata"
+      ],
+      "note_operative": [
+        "(48) Circolazione nelle corsie riservate. Si ritiene che la sanzione più elevata possa riguardare anche la circolazione nelle",
+        "(49) Ausiliari del trafco. La violazione può essere accertata dal personale ispettivo delle aziende esercenti il trasporto",
+        "(50) Sosta. Per la sosta si veda l’ipotesi specica dell’articolo 158 del codice della strada.",
+        "(51) Segnaletica per le corsie riservate e deroghe per i velocipedi. Le corsie riservate, qualora non protette da elementi in",
+        "(52) Segnaletica per corsie. L’uso delle corsie può essere reso più evidente dal segnale g. II 339 del regolamento, con",
+        "(53) Veicoli al servizio di invalidi. Ai sensi dell’articolo 11 del d.P.R. 503/96, nei percorsi preferenziali o nelle corsie preferenziali",
+        "(54) Deroghe per NCC. Ai veicoli adibiti a servizio di noleggio con conducente è consentito l’uso delle corsie preferenziali"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "commi 1, 9 e 14",
+      "numero_caso": "13",
+      "titolo": "Circolazione in APU o ZTL",
+      "sanzione_da": 83.0,
+      "sanzione_a": 332.0,
+      "riduzione_5gg": 58.1,
+      "riduzione_meta_massimo": 166.0,
+      "riduzione_doppio_minimo": 166.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Note accessi delle aree e le zone dove l’accesso e la circolazione sono soggetti a divieti e limitazioni; le aree e le zone sono delimitate mediante i segnali di ne area pedonale (g. II 321) e ne zona a trafco limitato (g. II 322/b). nella delibera di Giunta prevista dall’articolo 7, comma 9, del codice della strada, per delimitare le aree pedonali e le zone a trafco limitato. Ai sensi dell’articolo 7, comma 9-bis, del codice della strada, aggiunto dalla legge di bilancio per il 2019 con effetto dal 1° gennaio 2019, nel delimitare le zone di cui al comma 9 i comuni consentono, in ogni caso, l’accesso libero a tali zone ai veicoli a propulsione elettrica o ibrida. consentite nelle “zone a trafco limitato” e “nelle aree pedonali urbane”, così come denite dall’art. 3 del decreto legislativo 30 aprile 1992, n. 285, qualora sia autorizzato l’accesso anche ad una sola categoria di veicoli per l’espletamento di servizi di trasporto di pubblica utilità. debitamente approvati e autorizzati, ai sensi dell’articolo 17, comma 133-bis della legge 15 maggio 1997, n. 127 del d.P.R. 22 giugno 1999, n. 250. Per effetto dell’articolo 201, comma 1-bis, lettera g) del codice della strada, in tal caso la contestazione immediata non è necessaria. n. 108 ha modicato l’articolo 7, comma 9 del codice della strada precisando che le tipologie di comuni che possono subordinare l’ingresso nelle zone a trafco limitato al pagamento di una somma di denaro dovranno essere individuate con un decreto del Ministero delle infrastrutture e mobilità sostenibili non ancora emesso. Con lettera di chiarimenti 25 agosto 2022, prot. n. 10797 il Ministero delle infrastrutture e mobilità sostenibili ha precisato che nelle more dell’emanazione di tale decreto ministeriale da adottare entro 120 giorni dalla entrata in vigore della legge 108/2022 restano validi tutti gli atti e i provvedimenti adottati dalle Amministrazioni comunali in materia di tariffazione degli accessi nelle ZTL, disposti in attuazione della direttiva del Ministero dei lavori pubblici del 21 luglio 1977, n. 3816, con la conseguenza che nel periodo transitorio non dovranno essere modicate le tariffe già stabilite. È inoltre precisato che nel medesimo periodo transitorio non potranno essere istituite nuove ZTL a pagamento né assoggettate a pagamento ZTL esistenti. Con la modica dell’articolo 7 apportata dal d.l. 13 giugno 2023, n. 69 è stata prevista la possibilità per i comuni di stabilire anche un limite temporale di permanenza all’interno di tali zone per i veicoli autorizzati all’accesso. Tali provvedimenti possono prevedere anche tempi massimi di permanenza diversi in relazione alla categoria di veicoli o di utenti autorizzati all’accesso. 91",
+      "casi": [
+        "13.1 nell’area pedonale urbana senza essere autorizzato",
+        "13.2 nella zona a trafco limitato senza essere autorizzato"
+      ],
+      "note_operative": [
+        "(55) Sosta. Per la sosta si veda l’ipotesi specica dell’articolo 158 del codice della strada.",
+        "(56) Segnaletica. I segnali rappresentati dalle gure II 320 (Area pedonale) e II 322/a (Zona a trafco limitato) sono posti agli",
+        "(57) Autorizzazioni in deroga. Possono essere concesse speciche autorizzazioni in deroga, secondo le indicazioni contenute",
+        "(58) Disabili. Ai sensi dell’articolo 11 del d.P.R. 503/96, la circolazione e la sosta dei veicoli al servizio di persone disabili sono",
+        "(59) Mezzi di controllo a distanza. La violazione può essere accertata anche mediante sistemi di controllo a distanza,",
+        "(60) Tariffazione degli accessi in ZTL. L’articolo 7 del decreto-legge 16 giugno 2022, n. 68, convertito nella legge 5 agosto 2022,"
+      ]
+    },
+    {
+      "articolo": "7",
+      "commi": "comma 15-bis, secondo periodo",
+      "numero_caso": "15",
+      "titolo": "Impiego di minori nella attività di parcheggiatore o guardiamacchine non autorizzati (ovvero",
+      "sanzione_da": null,
+      "sanzione_a": null,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": [
+        "(67) Guardiamacchine e parcheggiatore non autorizzato. Per la denizione di guardiamacchine e parcheggiatore si veda nota",
+        "(68) Sanzione penale. La violazione, originariamente punita con sanzioni amministrative, costituisce ora illecito penale",
+        "(69) Impiego di minori. In questo caso il reato sussiste laddove vi sia utilizzo anche occasionale di minori, a prescindere da",
+        "(70) Ripetizione della violazione. Si ripropongono qui le stesse difcoltà già affrontate a proposito della penalizzazione del reato",
+        "(71) Comportamento operativo. Le fattispecie assumono rilevanza penale e deve procedersi alla trasmissione di formale",
+        "(72) Destinazione somme sequestrate. Per la destinazione delle somme eventualmente sequestrate ai ni della consca si",
+        "(73) Ordine di allontanamento. È disposto l’ordine di allontanamento ai sensi degli articoli 9 e 10 del d.l. 20 febbraio 2017, n. 14,"
+      ]
+    },
+    {
+      "articolo": "10",
+      "commi": "commi 18, 23, 24 e 25",
+      "numero_caso": "1",
+      "titolo": "Trasporti in condizione di eccezionalità o veicoli eccezionali senza autorizzazione o in violazione di",
+      "sanzione_da": 794.0,
+      "sanzione_a": 3206.0,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": 1603.0,
+      "riduzione_doppio_minimo": 1588.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della patente da 15 a 30 giorni (solo al conducente) (8)",
+      "testo_precompilato": "1.1 Quale conducente eseguiva un trasporto eccezionale … > vedi Casi. 1.2 Quale proprietario del veicolo consentiva che fosse effettuato un trasporto eccezionale … > vedi Casi. 1.3 Quale committente esclusivo disponeva un trasporto eccezionale … > vedi Casi.",
+      "casi": [
+        "1 senza autorizzazione",
+        "2 senza rispettare il percorso stabilito indicato nell’autorizzazione (3)"
+      ],
+      "note_operative": [
+        "(1) Ambito di applicazione. Il codice della strada distingue il veicolo eccezionale dal trasporto in condizioni di",
+        "(2) Esenzione dall’autorizzazione. Non sono soggetti all’autorizzazione:",
+        "(3) Deroghe. Al di fuori di brevi tratte non prevedibili e funzionali alla consegna delle merci, su o tra percorsi già autorizzati.",
+        "(4) Macchine agricole e operatrici. Le disposizioni dell’articolo 10 non si applicano alle macchine agricole eccezionali",
+        "(5) Sanzioni amministrative pecuniarie. Si applicano sia al proprietario del veicolo sia al committente, quando si tratta",
+        "(6) Franchigia di sagoma. Ove la violazione consista nel superamento dei limiti di sagoma previsti dall’articolo 61, c.d.s.,",
+        "(7) Franchigia di massa. Ove la violazione consista nel superamento dei limiti di massa previsti dall’articolo 62, c.d.s.,",
+        "(8) Sanzioni accessorie e prescrizioni. L’agente ritira la patente di guida ai ni dell’applicazione della sanzione"
+      ]
+    },
+    {
+      "articolo": "10",
+      "commi": "comma 20",
+      "numero_caso": "3",
+      "titolo": "Mancanza al seguito dell’autorizzazione",
+      "sanzione_da": 42.0,
+      "sanzione_a": 173.0,
+      "riduzione_5gg": 29.4,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Circolava con il veicolo indicato eseguendo un trasporto eccezionale (o in condizioni di eccezionalità o con veicolo eccezionale) senza avere con sé l’autorizzazione. Annotazione sul verbale. Si intima al conducente di non riprendere il trasporto prima di aver esibito l’autorizzazione. Note l’obbligo di corrispondere la somma dovuta.",
+      "casi": [],
+      "note_operative": [
+        "(13) Esibizione autorizzazione. Il viaggio potrà proseguire solo dopo l’esibizione dell’autorizzazione; l’esibizione non sana",
+        "(14) Scorta tecnica. Se è presente la scorta tecnica, il capo-scorta deve aver controllato la disponibilità dell’autorizzazione,",
+        "(10) Ambito di applicazione. Il caso riguarda chiunque esegua trasporti eccezionali o in condizioni di eccezionalità ovvero circoli",
+        "(11) Vedi nota 5.",
+        "(12) Obbligo di sistemazione del carico. Il veicolo non può proseguire il viaggio se il conducente non abbia provveduto a",
+        "(15) Individuazione sanzioni. Ovviamente, se poi si accerta che l’autorizzazione non era stata rilasciata si applica la specica"
+      ]
+    },
+    {
+      "articolo": "10",
+      "commi": "commi 21, 23, 24 e 25",
+      "numero_caso": "4",
+      "titolo": "Mezzi d’opera – Trasporto di cose diverse",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": 865.5,
+      "riduzione_doppio_minimo": 860.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della patente da 15 a 30 giorni (solo conducente) (19)",
+      "testo_precompilato": "4.1 Quale conducente del mezzo d’opera trasportava cose diverse da quelle previste dall’articolo 54, comma 1, lettera n) del codice della strada. 4.2 Quale proprietario del mezzo d’opera consentiva che fosse utilizzato per trasportare cose diverse da quelle previste dall’articolo 54, comma 1, lettera n) del codice della strada. 4.3 Quale committente esclusivo disponeva un trasporto con un mezzo d’opera di cose diverse da quelle previste dall’articolo 54, comma 1, lettera n) del codice della strada.",
+      "casi": [],
+      "note_operative": [
+        "(16) Clausola di riserva. La violazione si applica salvo che ciò sia espressamente consentito, comunque entro i limiti di cui",
+        "(17) Mezzi d’opera. I mezzi d’opera sono destinati al trasporto di materiali di impiego o di risulta dell’attività edilizia, stradale,",
+        "(18) Vedi nota 5.",
+        "(19) Sanzioni accessorie e prescrizioni. L’agente ritira la patente di guida ai ni dell’applicazione della sanzione accessoria",
+        "(20) Revoca. Alla terza violazione, accertata in un periodo di cinque anni, è disposta la revoca, sulla carta di circolazione, della"
+      ]
+    },
+    {
+      "articolo": "10",
+      "commi": "commi 22, 23, 24 e 25",
+      "numero_caso": "5",
+      "titolo": "Mezzo d’opera in eccedenza di massa su strade non percorribili",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": 865.5,
+      "riduzione_doppio_minimo": 860.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della patente da 15 a 30 giorni (solo conducente) (21)",
+      "testo_precompilato": "5.1 Quale conducente del mezzo d’opera effettuava un trasporto in eccedenza di massa rispetto all’articolo 62 del codice della strada su strada non percorribile (indicare la massa riscontrata). 5.2 Quale proprietario del mezzo d’opera consentiva che fosse effettuato un trasporto in eccedenza di massa rispetto all’articolo 62 del codice della strada su strada non percorribile (indicare la massa riscontrata). 5.3 Quale committente esclusivo disponeva un trasporto in eccedenza di massa rispetto all’articolo 62",
+      "casi": [],
+      "note_operative": [
+        "(21) Vedi nota 19.",
+        "(22) Vedi nota 5.",
+        "(23) Mezzi d’opera in eccedenza ai limiti di massa. In assenza degli elenchi previsti dall’art. 226, comma 4 del nuovo codice",
+        "(24) Autorizzazione per i mezzi d’opera. I mezzi d’opera che eccedono i limiti di massa stabiliti nell’articolo 62, c.d.s., non sono"
+      ]
+    },
+    {
+      "articolo": "10",
+      "commi": "comma 25-ter",
+      "numero_caso": "6",
+      "titolo": "Violazioni del personale di scorta",
+      "sanzione_da": 340.0,
+      "sanzione_a": 1362.0,
+      "riduzione_5gg": 238.0,
+      "riduzione_meta_massimo": 681.0,
+      "riduzione_doppio_minimo": 680.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione dell’abilitazione da uno a tre mesi all’ultima violazione nel",
+      "testo_precompilato": "Quale incaricato della scorta tecnica non rispettava il regolamento. Nella fattispecie … > vedi Casi. 137 Veicoli e trasporti eccezionali il veicolo potrà essere trasferito nel luogo dove dovrà rimanere sino al termine del fermo. Se le disposizioni come sopra impartite non sono osservate, si applica la sanzione amministrativa accessoria della sospensione della patente da uno a tre mesi. Veicoli e trasporti eccezionali",
+      "casi": [
+        "6.1 quale capo-scorta del trasporto o del veicolo eccezionale non aveva con sé copia autentica",
+        "6.2 quale capo-scorta del trasporto o del veicolo eccezionale non aveva con sé un documento della impresa che",
+        "6.3 quale capo-scorta del trasporto o del veicolo eccezionale non era in grado di comunicare costantemente",
+        "6.4 quale capo-scorta del trasporto o del veicolo eccezionale non era in grado di comunicare costantemente",
+        "6.5 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver",
+        "6.6 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato",
+        "6.7 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato",
+        "6.8 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato",
+        "6.9 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato",
+        "6.10 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato che i",
+        "6.11 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato",
+        "6.12 quale capo-scorta del trasporto o del veicolo eccezionale iniziava il servizio di scorta senza aver controllato"
+      ],
+      "note_operative": [
+        "(25) Sanzioni accessorie. Ove in un periodo di due anni il medesimo soggetto sia incorso per almeno due volte in una",
+        "(26) Scorta tecnica. Il servizio di scorta in cui non sia presente personale di organi di polizia stradale di cui al comma 1 dell’art.",
+        "(27) Verica masse. La verica delle masse è effettuata unicamente su base documentale.",
+        "(28) Obblighi del capo-scorta. Nei casi e con i tempi indicati dall’articolo 16, comma 4, del regolamento c.d.s., il capo-scorta",
+        "(29) Art. 16. 1. Qualora, a causa dell’ingombro o della limitata velocità del veicolo scortato si verichi un incolonnamento di",
+        "(30) Art. 16-bis. 1. Gli interventi necessari a pilotare o a regolare il trafco nel tratto di strada interessato dal passaggio del"
+      ]
+    },
+    {
+      "articolo": "78",
+      "commi": "commi 1, 4 e 5",
+      "numero_caso": "1",
+      "titolo": "Circolare con veicolo modicato senza aggiornamento della carta di circolazione",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": 301.0,
+      "riduzione_meta_massimo": 865.5,
+      "riduzione_doppio_minimo": 860.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Circolava con veicolo al quale erano state apportate modiche … > vedi Casi senza aver sostenuto con esito favorevole la visita e prova.",
+      "casi": [
+        "1.1 ai dispositivi di segnalazione visiva",
+        "1.2 ai dispositivi di illuminazione",
+        "1.3 ai cerchi delle ruote",
+        "1.4 agli pneumatici",
+        "1.5 alle sospensioni",
+        "1.6 al paraurti",
+        "1.7 ai parafanghi",
+        "1.8 all’alloggiamento della targa",
+        "1.9 al serbatoio",
+        "1.10 al dispositivo silenziatore",
+        "1.11 al dispositivo di protezione posteriore anti incuneamento",
+        "1.12 al dispositivo di protezione laterale",
+        "1.13 allo sterzo",
+        "1.14 al dispositivo di scarico"
+      ],
+      "note_operative": [
+        "(1) Sanzione accessoria. Per l’applicazione della sanzione accessoria del ritiro della carta di circolazione si applicano le",
+        "(2) Eccezioni. Esistono eccezioni alla regola, come nel caso di pneumatici equivalenti, montaggio della terza luce di stop,",
+        "(3) Ambito di applicazione. In realtà l’articolo 78 del c.d.s. presenta dubbi operativi anche in relazione alla mancanza di un",
+        "(4) Casi specici. Con la circolare del Ministero delle infrastrutture e dei trasporti 22 luglio 2003, n. 5619.060.0 è stato",
+        "(5) Strutture portabiciclette e portasci applicate posteriormente a sbalzo. Il MIT ha fornito nuove indicazioni con la",
+        "(6) Strutture destinate al trasporto di ciclomotori e motocicli applicate posteriormente a sbalzo sulle autocaravan.",
+        "(7) Installazione impianto GPL o metano (CNG). Con circolare MIT del 13 febbraio 2009, prot. 14998/23.30 è stata ritenuta",
+        "(8) Misure pneumatici. Possono essere montati pneumatici delle misure indicate nella carta di circolazione, con l’indice di",
+        "(9) Sistemi ruote. Per effetto del decreto ministeriale 10 gennaio 2013, n. 20 (in vigore dal 1° gennaio 2015 e rinviato per alcuni",
+        "(10) Smontaggio dei sedili. È ammesso lo smontaggio di uno o più sedili posteriori nelle autovetture senza necessità di",
+        "(11) Paratie divisorie sui veicoli destinati ai servizi di autotrasporto pubblico non di linea. Con circolare MIT 14 aprile 2020 prot. n.",
+        "(12) Modiche senza visita e prova. Con il decreto ministeriale 8 gennaio 2021- all. A - modicato dal decreto 5 novembre 2021"
+      ]
+    },
+    {
+      "articolo": "79",
+      "commi": "commi 1 e 4",
+      "numero_caso": "1",
+      "titolo": "Circolare con dispositivi non efcienti",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 6042.0,
+      "riduzione_doppio_minimo": 2416.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "1.1 Circolare con dispositivi non efcienti durante una competizione di velocità organizzata con veicoli a motore 1.2 Circolare con dispositivi non efcienti durante una gara di velocità con veicoli a motore SANZIONE ENTRO 5 GIORNI € 1.208,00 € 845,60 Da € 1.208,00 a € 12.084,00 PUNTI SANZIONI ACCESSORIE 0 non previste Metà del massimo: € 6.042,00 Doppio del minimo: € 2.416,00 433 Ecienza dei veicoli a motore 1. Alla guida del veicolo indicato circolava … > vedi Casi. 1.1 Alla guida del veicolo indicato circolava … > vedi Casi durante una competizione di velocità organizzata con veicoli a motore. 1.2 Alla guida del veicolo indicato circolava … > vedi Casi durante una gara di velocità con veicoli a motore.",
+      "casi": [
+        "1 con i dispositivi di segnalazione visiva non funzionanti",
+        "2 con i dispositivi di illuminazione non funzionanti",
+        "3 con i cerchi delle ruote danneggiati",
+        "4 con il sistema di frenatura non efciente",
+        "5 con gli pneumatici danneggiati (7)",
+        "6 con gli pneumatici usurati (8)",
+        "7 con i parafanghi danneggiati",
+        "8 con l’alloggiamento della targa danneggiato",
+        "9 con il serbatoio danneggiato",
+        "10 con il dispositivo silenziatore non funzionante",
+        "11 con i paraurti danneggiati",
+        "12 con il dispositivo di protezione posteriore anti incuneamento danneggiato",
+        "13 con il dispositivo di protezione laterale danneggiato",
+        "14 con lo sterzo non funzionante",
+        "15 con il dispositivo di scarico danneggiato",
+        "16 con il dispositivo retrovisore non efciente",
+        "17 con i dispositivi di ritenuta non efcienti",
+        "18 con la carrozzeria danneggiata (9)",
+        "19 con il telaio danneggiato (9)",
+        "20 con i pedali di comando non efcienti",
+        "21 con le sospensioni non efcienti",
+        "22 con i vetri danneggiati (10)"
+      ],
+      "note_operative": [
+        "(1) Estintori sugli autobus. Vedi nota 8 all’articolo 72.",
+        "(2) Precisazioni nel verbale. Specicare nel dettaglio l’inefcienza riscontrata.",
+        "(3) Comunicazione UMC. Qualora sorgano dubbi sulla persistenza dei requisiti di sicurezza, rumorosità o inquinamento",
+        "(4) Ordine di non proseguire al marcia. I funzionari, gli ufciali e gli agenti ai quali spetta l’espletamento dei servizi di polizia",
+        "(5) Ambito di applicazione. Ove l’inefcienza riscontrata riguardi più componenti di un medesimo dispositivo, deve",
+        "(6) Competizione sportiva. Nei casi in cui il veicolo è adoperato durante una competizione di velocità organizzata con veicoli",
+        "(7) Sia le ruote che gli pneumatici, o sistemi equivalenti, montati sugli autoveicoli, motoveicoli, ciclomotori, rimorchi e",
+        "(8) Il battistrada, ove previsto, dovrà avere il disegno a rilievo ben visibile su tutta la sua larghezza e su tutta la sua",
+        "(9) La carrozzeria ed il telaio devono essere in buono stato d’uso e manutenzione. In particolare il telaio non deve presentare",
+        "(10) Tutti i vetri interessanti la visibilità del conducente non devono presentare rotture, anche se localizzate."
+      ]
+    },
+    {
+      "articolo": "79",
+      "commi": "commi 1 e 4",
+      "numero_caso": "2",
+      "titolo": "Circolare con dispositivi non regolarmente installati",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 6042.0,
+      "riduzione_doppio_minimo": 2416.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "2.1 Circolare con dispositivi non regolarmente installati durante una competizione di velocità organizzata con veicoli a motore 2.2 Circolare con dispositivi non regolarmente installati durante una gara di velocità con veicoli a motore SANZIONE ENTRO 5 GIORNI € 1.208,00 € 845,60 Da € 1.208,00 a € 12.084,00 PUNTI SANZIONI ACCESSORIE 0 non previste Metà del massimo: € 6.042,00 Doppio del minimo: € 2.416,00 2. Alla guida del veicolo circolava … > vedi Casi. 2.1 Alla guida del veicolo circolava … > vedi Casi durante una competizione di velocità organizzata con veicoli a motore. 2.2 Alla guida del veicolo circolava … > vedi Casi durante una gara di velocità con veicoli a motore.",
+      "casi": [
+        "1 con i dispositivi di segnalazione visiva non correttamente installati",
+        "2 con i dispositivi di illuminazione non correttamente installati"
+      ],
+      "note_operative": [
+        "(11) Vedi note ipotesi 1.",
+        "(12) Descrizione. Riportare nel dettaglio la descrizione dell’installazione non corretta.",
+        "(13) Montaggio pneumatici. Per quanto riguarda i pneumatici dei veicoli a motore e dei loro rimorchi, occorre fare riferimento"
+      ]
+    },
+    {
+      "articolo": "79",
+      "commi": "commi 1 e 4",
+      "numero_caso": "3",
+      "titolo": "Circolare con dispositivi alterati",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 6042.0,
+      "riduzione_doppio_minimo": 2416.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "3.1 Circolare con dispositivi alterati durante una competizione di velocità organizzata con veicoli a motore 3.2 Circolare con dispositivi alterati durante una gara di velocità con veicoli a motore SANZIONE ENTRO 5 GIORNI € 1.208,00 € 845,60 Da € 1.208,00 a € 12.084,00 PUNTI SANZIONI ACCESSORIE 0 non previste Metà del massimo: € 6.042,00 3. Alla guida del veicolo circolava … > vedi Casi. 438 Doppio del minimo: € 2.416,00 3.1 Alla guida del veicolo circolava … > vedi Casi durante una competizione di velocità organizzata con veicoli a motore. 3.2 Alla guida del veicolo circolava … > vedi Casi durante una gara di velocità con veicoli a motore.",
+      "casi": [
+        "1 con i dispositivi di segnalazione visiva alterati",
+        "2 con i dispositivi di illuminazione alterati",
+        "3 con i cerchi delle ruote alterati",
+        "4 con il sistema di frenatura alterato",
+        "5 con gli pneumatici alterati",
+        "6 con i paraurti alterati",
+        "7 con i parafanghi alterati",
+        "8 con l’alloggiamento della targa alterato",
+        "9 con il serbatoio alterato",
+        "10 con il dispositivo silenziatore alterato",
+        "11 con il dispositivo di protezione posteriore anti incuneamento alterato",
+        "12 con il dispositivo di protezione laterale alterato",
+        "13 con lo sterzo alterato",
+        "14 con il dispositivo di scarico alterato",
+        "15 con il dispositivo retrovisore alterato",
+        "16 con i dispositivi di ritenuta alterati",
+        "17 con il telaio alterato",
+        "18 con i pedali di comando alterati",
+        "19 con le sospensioni alterate",
+        "20 con i vetri alterati",
+        "21 con le strisce retroriettenti alterate",
+        "22 con il segnale di pericolo di cui all’articolo 162 del codice della strada alterato",
+        "23 con il contachilometri alterato"
+      ],
+      "note_operative": [
+        "(14) Vedi note ipotesi 1.",
+        "(15) Descrizione violazione. Riportare nel dettaglio la descrizione dell’alterazione."
+      ]
+    },
+    {
+      "articolo": "84",
+      "commi": "comma 7",
+      "numero_caso": "1",
+      "titolo": "Adibire a locazione senza conducente un veicolo non destinato a tale uso",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": 301.0,
+      "riduzione_meta_massimo": 86.5,
+      "riduzione_doppio_minimo": 84.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della carta di circolazione da 2 a 8 mesi – conseguente",
+      "testo_precompilato": "Sospensione della carta di circolazione da 2 a 8 mesi – conseguente fermo amministrativo per la stessa durata della sospensione della carta di circolazione (1) Metà del massimo: € 86,50 Doppio del minimo: € 84,00 Adibiva a locazione senza conducente … > vedi Casi senza che questo fosse destinato a tale uso.",
+      "casi": [
+        "1.1 l’autoveicolo indicato",
+        "1.2 il rimorchio indicato",
+        "1.3 il veicolo indicato, diverso dall’autoveicolo o rimorchio"
+      ],
+      "note_operative": [
+        "(1) Sanzioni accessorie. Per l’applicazione si seguono le disposizioni dell’art. 217. Vedi sezione “Sanzioni accessorie”.",
+        "(2) Locazione senza conducente. Un veicolo s’intende adibito a locazione senza conducente quando il locatore, dietro",
+        "(3) La destinazione del veicolo è riportata espressamente sulla carta di circolazione del veicolo. Per i veicoli adibiti a locazione",
+        "(4) Locazione per oltre 30 giorni. L’esistenza di una locazione trasferisce la responsabilità solidale per il pagamento delle",
+        "(5) Il semplice comodato o la procura a vendere, pur determinando una disponibilità del veicolo in capo a un soggetto",
+        "(6) Per i veicoli adibiti al servizio pubblico di traporto di persone e per quelli adibiti a locazione senza conducente la carta",
+        "(7) Locazione nel trasporto merci in conto di terzi. Il decreto legge 13 giugno 2023, n. 69 (G.U. n. 136 del 13/6/2023) ha innovato",
+        "(8) Condizioni per la locazione senza conducente nel trasporto cose in conto terzi. L’utilizzazione dei veicoli di cui alla nota",
+        "(9) Documenti a bordo dei veicoli. È necessario il possesso, a bordo del veicolo oggetto del contratto di locazione, della",
+        "(10) Iscrizione della targa nel REN. Il Centro elaborazione dati del Dipartimento per la mobilità sostenibile del Ministero delle",
+        "(11) Copia del contratto nel trasporto di cose in conto terzi. Il comma 2 dell’articolo 12 del decreto legislativo n. 286 del",
+        "(12) Mancanza del documento che attesta il legame del conducente con l’impresa che utilizza il veicolo locato. La mancanza",
+        "(13) Locazione di autobus. L’impresa esercente attività di trasporto di viaggiatori effettuato mediante noleggio di autobus con",
+        "(14) Ambito oggettivo. La sanzione si applica al di fuori dai casi indicati dai commi 2, 3 e 3-bis dell’articolo 84 del codice della",
+        "(15) Ambito soggettivo. Il Ministero dell’interno ha chiarito che l’autore della violazione deve essere individuato nel locatore,",
+        "(16) Veicoli per la locazione senza conducente. Dopo la modica dell’articolo 84 apportata dal d.l. 13 giugno 2023, n. 69",
+        "(17) Locazioni irregolari per l’esecuzione del trasporto merci o viaggiatori. L’utilizzo di veicoli acquisiti in LSC irregolarmente"
+      ]
+    },
+    {
+      "articolo": "84",
+      "commi": "commi 4-ter e 7-bis",
+      "numero_caso": "3",
+      "titolo": "Utilizzo di veicoli LSC per il trasporto di merci in conto terzi senza il rispetto delle condizioni",
+      "sanzione_da": 430.0,
+      "sanzione_a": 1731.0,
+      "riduzione_5gg": 301.0,
+      "riduzione_meta_massimo": 865.5,
+      "riduzione_doppio_minimo": 860.0,
+      "punti": 0,
+      "sanzioni_accessorie": "Sospensione della carta di circolazione da 2 a 8 mesi – conseguente",
+      "testo_precompilato": "Utilizzava il suddetto veicolo locato senza conducente per il trasporto di merci in conto terzi senza rispettare le condizioni previste dall’articolo 84, comma 4-ter, del codice della strada. In particolare …. > vedi Casi. 460quinquies Annotazione sul verbale. Si provvede al ritiro della carta di circolazione per la sospensione. È disposto il fermo del veicolo, come da separato verbale, per la durata che verrà stabilita con il provvedimento di sospensione della carta di circolazione. Il conducente può guidare per il tragitto più breve e il tempo strettamente necessario per ricoverare il veicolo in … luogo non soggetto a pubblico passaggio. Note consentita a condizione che: a) il contratto di locazione preveda unicamente la messa a disposizione del veicolo senza conducente e non sia abbinato a un contratto di servizio concluso con la stessa impresa e riguardante il personale di guida o di accompagnamento; b) il veicolo locato sia esclusivamente a disposizione dell’impresa che lo utilizza, per la durata del contratto di locazione; c) il veicolo locato sia guidato dal personale proprio dell’impresa che lo utilizza. Le ipotesi indicate sono state individuate dal Ministero dell’interno nella circolare n. prot. 30769 del 5 settembre 2023. possesso, a bordo del veicolo oggetto del contratto di locazione, della seguente documentazione in formato cartaceo o elettronico: a) contratto di locazione o estratto autenticato del medesimo contratto; b) qualora il conducente non sia anche il locatario del veicolo, contratto di lavoro del conducente o estratto autenticato del medesimo contratto. prima ipotesi sanzionatoria. equivalente secondo le disposizioni vigenti. Il Ministero dell’interno ha precisato che per assolvere all’obbligo di esibizione, per dimostrare il rapporto di dipendenza che lega il conducente all’impresa che utilizza il veicolo acquisito in locazione, può essere esibito anche uno dei documenti elencati nella deliberazione del Comitato centrale Albo autotrasportatori 1/2005 del 27 gennaio 2005. Tra tali documenti, si segnala, a titolo esemplicativo, la busta paga, il 460sexies Locazione senza conducente",
+      "casi": [
+        "3.1 il veicolo era condotto da conducente non dipendente dell’impresa locataria",
+        "3.2 il veicolo era stato acquisito in sub-locazione",
+        "3.3 il veicolo era stato concesso in locazione senza conducente contemporaneamente a più di un’impresa",
+        "3.4 il veicolo era stato utilizzato oltre la scadenza del contratto di noleggio"
+      ],
+      "note_operative": [
+        "(20) Ambito oggettivo. L’utilizzazione di veicoli in locazione senza conducente per trasporto di cose in conto di terzi è",
+        "(21) Prova del rispetto delle condizioni. Al ne del rispetto delle condizioni di cui alla nota precedente è necessario il",
+        "(22) Mancanza dei documenti. Per la mancanza al seguito dei documenti di cui alla nota precedente, vedi le note 11 e 12 della",
+        "(23) Documenti sostitutivi. I documenti di cui alla nota precedente possono eventualmente essere sostituiti da un documento",
+        "(24) Ambito soggettivo. Per la violazione prevista dal comma 7-bis, il soggetto autore della violazione è l’utilizzatore del",
+        "(25) Ipotesi di concorso. Qualora vi sia prova che il locatore abbia contribuito concretamente all’inosservanza delle"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "commi 1 e 8",
+      "numero_caso": "1",
+      "titolo": "Patente di Paese terzo – Mancanza di traduzione o permesso internazionale di guida",
+      "sanzione_da": 408.0,
+      "sanzione_a": 1634.0,
+      "riduzione_5gg": 285.6,
+      "riduzione_meta_massimo": 817.0,
+      "riduzione_doppio_minimo": 816.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato circolava esibendo la patente di guida rilasciata da uno Stato non facente parte dello Spazio Economico Europeo (2), non conforme alle Convenzioni internazionali cui l’Italia ha aderito, senza che questa fosse accompagnata dalla traduzione o dal permesso internazionale di guida. Note Stato non appartenente all’Unione Europea o allo Spazio Economico Europeo devono esibire, unitamente alla medesima",
+      "casi": [],
+      "note_operative": [
+        "(1) Presupposti. Fermo restando quanto previsto in Convenzioni internazionali, i titolari di patente di guida rilasciata da uno",
+        "(2) Denizione di Paesi SEE. Per comodità e anche per maggiore correttezza, nonostante le nuove disposizioni facciano",
+        "(3) Traduzione. Per la traduzione, il Ministero dei trasporti, con circolare 125/1981, ha riferito l’esito di un quesito posto alla",
+        "(4) Patenti non soggette all’obbligo. L’Italia ha aderito alla Convenzione di Parigi del 1926 (che però non prevedeva un modello di"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "commi 2 e 9",
+      "numero_caso": "2",
+      "titolo": "Permesso internazionale di guida non conforme",
+      "sanzione_da": 80.0,
+      "sanzione_a": 317.0,
+      "riduzione_5gg": 56.0,
+      "riduzione_meta_massimo": 158.5,
+      "riduzione_doppio_minimo": 160.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato circolava esibendo la patente di guida rilasciata da uno Stato non facente parte dello Spazio Economico Europeo e il permesso internazionale di guida … > vedi Casi.",
+      "casi": [
+        "2.1 non conforme alle Convenzioni internazionali cui l’Italia ha aderito",
+        "2.2 rilasciato da un’autorità diversa da quella che ha rilasciato la patente di guida"
+      ],
+      "note_operative": [
+        "(5) Vedi note caso precedente.",
+        "(6) Il permesso internazionale è emesso dall’autorità competente che ha rilasciato la patente ed è conforme a quanto",
+        "(7) Obbligo. L’esibizione del permesso internazionale è richiesta solo se la patente è stata rilasciata da un Paese che non",
+        "(8) Rilevanza. È irrilevante la presentazione di un permesso internazionale non conforme, se esibito unitamente a una"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "commi 3 e 10",
+      "numero_caso": "3",
+      "titolo": "Mancanza dell’abilitazione professionale",
+      "sanzione_da": 408.0,
+      "sanzione_a": 1634.0,
+      "riduzione_5gg": 285.6,
+      "riduzione_meta_massimo": 15299.5,
+      "riduzione_doppio_minimo": 10200.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato circolava esibendo la patente di guida rilasciata da uno Stato non facente parte dello Spazio Economico Europeo, ma, nonostante sia prescritto nello Stato che ha rilasciato la patente, non era titolare … > vedi Casi.",
+      "casi": [
+        "3.1 del prescritto certicato di abilitazione professionale",
+        "3.2 del prescritto titolo abilitativo"
+      ],
+      "note_operative": [
+        "(10) Presupposti. I conducenti muniti di patente rilasciata da uno Stato non appartenente allo SEE nel quale, per la guida di",
+        "(9) Convenzione di Ginevra. Con la circolare prot. n. 23670 del 9 marzo 2009, e con la precedente circolare prot. n.",
+        "(11) Depenalizzazione e procedimento sanzionatorio. Vedi nota (3), art. 116.",
+        "(12) Concetto di residenza. L’articolo 135 continua a fare riferimento alla residenza anagraca e non alla residenza normale,",
+        "(13) Sanzione accessoria del fermo. Si applica il fermo per mesi tre ai sensi dell’articolo 214 codice della strada. Ove"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "comma 12",
+      "numero_caso": "5",
+      "titolo": "Abilitazione professionale scaduta – Residenza da oltre un anno (Patenti del Regno Unito vedi nota 18)",
+      "sanzione_da": 408.0,
+      "sanzione_a": 1634.0,
+      "riduzione_5gg": 285.6,
+      "riduzione_meta_massimo": 817.0,
+      "riduzione_doppio_minimo": 816.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Annotazione sul verbale. Il veicolo è sottoposto a fermo amministrativo per 60 giorni, come da separato verbale. Note nel caso in cui questa sia necessaria per la guida del veicolo nella circostanza dell’accertamento.",
+      "casi": [],
+      "note_operative": [
+        "(19) Sanzione accessoria. Per l’applicazione del fermo amministrativo, vedi sezione “Sanzioni accessorie”.",
+        "(20) Campo di applicazione. Ovviamente la circolazione con l’abilitazione professionale scaduta di validità assume rilievo solo",
+        "(21) Concorso di norme. La violazione concorre con quella dell’articolo 135, comma 14 (patente in corso di validità e residenza"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "comma 13",
+      "numero_caso": "6",
+      "titolo": "Patente di Paese terzo scaduta – Residenza da meno di un anno o non stabilita (Patenti del Regno",
+      "sanzione_da": 158.0,
+      "sanzione_a": 638.0,
+      "riduzione_5gg": 110.6,
+      "riduzione_meta_massimo": 319.0,
+      "riduzione_doppio_minimo": 316.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo circolava esibendo la patente di guida rilasciata da uno Stato non facente parte dello Spazio Economico Europeo scaduta di validità … > vedi Casi.",
+      "casi": [
+        "6.1 avendo acquisito la residenza in Italia da meno di un anno",
+        "6.2 senza aver stabilito la residenza in Italia"
+      ],
+      "note_operative": [
+        "(22) Sanzione accessoria. La patente è ritirata, contestualmente alla violazione, dall’organo accertatore ed inviata, entro i"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "comma 13",
+      "numero_caso": "7",
+      "titolo": "Abilitazione professionale di Paese terzo scaduta – Residenza da meno di un anno o non stabilita",
+      "sanzione_da": 158.0,
+      "sanzione_a": 638.0,
+      "riduzione_5gg": 110.6,
+      "riduzione_meta_massimo": 319.0,
+      "riduzione_doppio_minimo": 316.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo indicato circolava esibendo l’abilitazione professionale rilasciata da uno Stato non facente parte dello Spazio Economico Europeo scaduta di validità … > vedi Casi.",
+      "casi": [
+        "7.1 avendo acquisito la residenza in Italia da meno di un anno",
+        "7.2 senza aver stabilito la residenza in Italia"
+      ],
+      "note_operative": [
+        "(23) Sanzione accessoria. L’abilitazione professionale è ritirata, contestualmente alla violazione, dall’organo accertatore ed"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "comma 14",
+      "numero_caso": "8",
+      "titolo": "Patente di Paese terzo valida – Residenza da più di un anno (Patenti del Regno Unito vedi nota 18)",
+      "sanzione_da": 158.0,
+      "sanzione_a": 638.0,
+      "riduzione_5gg": 110.6,
+      "riduzione_meta_massimo": 319.0,
+      "riduzione_doppio_minimo": 316.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "Alla guida del veicolo circolava esibendo la patente di guida rilasciata da uno Stato non facente parte dello Spazio Economico Europeo, in corso di validità, avendo acquisito la residenza in Italia da più di un anno. Note giorni successivi, al prefetto del luogo della commessa violazione che, entro i quindici giorni successivi, lo trasmette all’Ufcio della Motorizzazione civile competente in ragione della residenza del titolare dei documenti predetti, ai ni della conversione.",
+      "casi": [],
+      "note_operative": [
+        "(25) Sanzione accessoria. Il documento è ritirato, contestualmente alla violazione, dall’organo accertatore ed inviato, entro i 5"
+      ]
+    },
+    {
+      "articolo": "135",
+      "commi": "commi 6 e 7, primo periodo",
+      "numero_caso": "9",
+      "titolo": "Inosservanza del periodo di inibizione/sospensione – Patenti non SEE",
+      "sanzione_da": 5100.0,
+      "sanzione_a": 30599.0,
+      "riduzione_5gg": 3570.0,
+      "riduzione_meta_massimo": 15299.5,
+      "riduzione_doppio_minimo": 10200.0,
+      "punti": 0,
+      "sanzioni_accessorie": "In caso di recidiva (reiterazione)",
+      "testo_precompilato": "Circolava nonostante gli fosse stata inibita la guida in Italia a seguito della violazione che avrebbe comportato la revoca della patente. Annotazione (a). La violazione comporta la sanzione accessoria del fermo amministrativo del veicolo per tre mesi. Il veicolo è sottoposto a fermo amministrativo ai sensi dell’articolo 214 codice della strada. Annotazione (b). Il veicolo è sottoposto a sequestro come da separato verbale. Sul veicolo è collocato il cartello di cui all’articolo 394, comma 9, del d.P.R. 495/92. Note",
+      "casi": [],
+      "note_operative": [
+        "(26) Presupposti. Qualora il titolare di patente di guida, rilasciata da uno Stato non appartenente all’Unione Europea o allo",
+        "(27) Sanzione accessoria. Se il conducente guida nel periodo di inibizione adottato ai sensi dell’articolo 135, comma 5, non",
+        "(28) Efcacia del provvedimento. Ferma restando l’efcacia del provvedimento di inibizione alla guida nel territorio nazionale,",
+        "(29) Notica del provvedimento di inibizione. Il provvedimento di inibizione alla guida sul territorio nazionale è noticato",
+        "(30) Descrizione. Indicare gli estremi dell’ordinanza se già emessa e noticata o del verbale con il quale è stato disposto il",
+        "(31) Depenalizzazione e procedimento sanzionatorio. Vedi nota (3) art. 116",
+        "(32) Presupposti. Qualora il titolare di patente di guida, rilasciata da uno Stato non appartenente all’Unione Europea o allo",
+        "(33) Sanzione accessoria del fermo e della consca (sequestro). Vedi note 13, 14 e 15.",
+        "(34) Incauto afdamento. Vedi nota 17."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 1-8",
+      "numero_caso": "1",
+      "titolo": "Irregolare sistemazione del carico. Merce divisibile ed indivisibile",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo a motore sopra indicato, circolava nella suddetta strada con il carico sistemato in modo inadeguato e tale da ... > vedi Casi.",
+      "casi": [
+        "1.1 determinarne la caduta sulla strada. Si dà atto che parte del carico cadeva per terra provocando intralcio"
+      ],
+      "note_operative": [
+        "(1) Ambito di applicazione. Le varie ipotesi riportate nell’illecito, pur potendo coesistere, danno luogo all’applicazione di una",
+        "(2) Veicoli a trazione animale. Le sanzioni si applicano anche ai veicoli a trazione animale.",
+        "(3) Vedi punti 1-8 di Note introduttive.",
+        "(4) Vedi Tabelle riepilogative ipotesi sanzionatorie.",
+        "(5) Vedi procedura ripristinatoria in punto 6 di Note introduttive.",
+        "(6) Violazioni in ambito autotrasporto. In caso di violazione commessa nell’ambito dell’autotrasporto di cose in conto terzi",
+        "(7) Ambito di applicazione. La norma stabilisce che il carico non deve superare i limiti di sagoma stabiliti dall’art. 61 e non",
+        "(8) Vedi note 2-6."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 2-8",
+      "numero_caso": "3",
+      "titolo": "Irregolare sistemazione del carico. Merce divisibile. Sporgenza posteriore",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella suddetta strada, trasportando un carico di cose divisibili che, pur rimanendo all’interno dei limiti dimensionali di sagoma ssati dall’articolo 61 del codice della strada per quella categoria di veicolo, sporgeva longitudinalmente dalla parte posteriore del veicolo. Annotazione sul verbale. Vedi punto 6 delle Note introduttive. Note",
+      "casi": [],
+      "note_operative": [
+        "(9) Ambito di applicazione. Per i carichi di merce divisibile non è ammessa alcuna sporgenza posteriore.",
+        "(10) Tolleranza. Per i carichi di merce indivisibile è tollerata una sporgenza di un carico di indivisibili, fino ai 3/10 della lunghezza del veicolo stesso, purché nei limiti stabiliti dall’art. 61.",
+        "(11) Per motocicli, ciclomotori e velocipedi il carico può sporgere longitudinalmente di 50 cm, purché sia assicurata la visibilità del conducente. In queste ipotesi si applica l’articolo 170, comma 5.",
+        "(12) Vedi note 2-6."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 2-8",
+      "numero_caso": "4",
+      "titolo": "Irregolare sistemazione del carico. Merce indivisibile. Sporgenza posteriore",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella suddetta via, trasportando un carico di cose indivisibili che, pur rimanendo all’interno dei limiti dimensionali di sagoma ssati dall’articolo 61 del codice della strada per quella categoria di veicolo, sporgeva longitudinalmente dalla parte posteriore del veicolo di oltre i 3/10 della lunghezza del veicolo.",
+      "casi": [],
+      "note_operative": [
+        "(13) Ambito di applicazione. Per i carichi di merce indivisibile è tollerata una sporgenza fino ai 3/10 della lunghezza del veicolo stesso, purché nei limiti stabiliti dall’art. 61. Se quindi i 3/10 della lunghezza del v",
+        "(14) Vedi note 2-6. Se la sporgenza è dovuta a cose divisibili si tratta di sistemazione del carico irregolare; vedi caso precedente."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 3-8",
+      "numero_caso": "5",
+      "titolo": "Irregolare sistemazione del carico. Merce divisibile ed indivisibile. Sporgenza laterale",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella suddetta via trasportando un carico che, pur rimanendo all’interno dei limiti dimensionali di sagoma ssati dall’articolo 61 del codice della strada per quella categoria di veicolo, sporgeva lateralmente per oltre 30 cm rispetto alle luci di posizione anteriori e posteriori. Annotazione sul verbale. Vedi punto 6 delle Note introduttive.",
+      "casi": [],
+      "note_operative": [
+        "(15) Ambito di applicazione. L’articolo 164 ammette una sporgenza laterale massima di 30 cm, senza distinguere tra carichi",
+        "(16) Vedi note 2-6."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 3-8",
+      "numero_caso": "6",
+      "titolo": "Irregolare sistemazione del carico. Merce indivisibile. Pali, sbarre, lastre o carichi difcilmente",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella suddetta via trasportando un carico difcilmente percepibile, collocato orizzontalmente (indicare la natura…. pali, sbarre, lastre, ecc.), che, pur rimanendo all’interno dei limiti dimensionali di sagoma ssati dall’articolo 61 del codice della strada per quella categoria di veicolo, sporgeva lateralmente oltre la sagoma propria del veicolo. Annotazione sul verbale. Vedi punto 6 delle Note introduttive. Note pali, sbarre, lastre o carichi comunque difficilmente percepibili, la sanzione si applica in ogni caso. Se la sporgenza determina il superamento dei limiti dimensionali per categoria di veicolo di cui all’articolo 61, si applica l’articolo 10, comma 18 per trasporto eccezionale senza autorizzazione di cose indivisibili. 986 7. Modalità di trasporto degli accessori mobili SANZIONE ENTRO 5 GIORNI PUNTI € 87,00 € 60,90 3 Da € 87,00 a € 344,00 SANZIONI ACCESSORIE non previste Ritiro della patente e della carta di circolazione (vedi Note introduttive: 6. Procedura ripristinatoria) Metà del massimo: € 172,00 Doppio del minimo: € 174,00 In qualità di conducente del veicolo sopra indicato, circolava nella suddetta via senza impedire che l’accessorio mobile (indicare quale … es. il cavo dell’argano di cui il veicolo era dotato) ... > vedi Casi.",
+      "casi": [
+        "7.1 sporgesse nelle oscillazioni al di fuori della sagoma del veicolo",
+        "7.2 strisciasse sul terreno"
+      ],
+      "note_operative": [
+        "(17) Ambito di applicazione. L’articolo 164, comma 3, ultimo periodo non prevede deroghe o tolleranze: in caso di trasporti di",
+        "(18) Vedi note 2-6.",
+        "(19) Accessori mobili. Gli accessori mobili cui fa riferimento l’articolo 164, comma 4 sono rappresentati da parti del veicolo",
+        "(20) Macchine agricole. Per le macchine agricole si applicano le sanzioni dell’articolo 104, commi 7, lettera f) e 11 del codice.",
+        "(21) In caso di danneggiamento della sede stradale vedi ipotesi dell’articolo 15, comma 1, lett. a) del c.d.s."
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 5-8",
+      "numero_caso": "8",
+      "titolo": "Divieto di trasporto o traino di cose che strisciano sul terreno",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella suddetta strada ... > vedi Casi.",
+      "casi": [
+        "8.1 trasportando cose (denire le cose trasportate) che strisciavano sul terreno, anche se sostenute in parte",
+        "8.2 trainando cose (precisare la cosa trainata) che strisciavano sul terreno, anche se sostenute in parte dalle"
+      ],
+      "note_operative": [
+        "(22) Condizioni di traino. L’articolo 164, comma 5 vieta il trasporto od il traino di cose che strisciano sul terreno, anche se in",
+        "(23) Danneggiamento della sede stradale. Vedi nota 21.",
+        "(24) Contenuto. La norma contiene un obbligo generico di prudenza aggravato dalla presenza di carichi sporgenti ed è residuale rispetto ai casi precedenti. Pertanto le cautele omesse devono essere rappresentate in manier",
+        "(25) Presupposti. La violazione prescinde dall’uso corretto di pannelli di segnalazione di cui alla violazione successiva.",
+        "(26) Vedi note 2-6.",
+        "(27) Vedi procedura ripristinatoria in punto 6 di Note introduttive. Si ritiene peraltro che, non trattandosi di violazione riconducibile a fatti oggettivi, ma alla valutazione di un comportamento di guida, la procedura "
+      ]
+    },
+    {
+      "articolo": "164",
+      "commi": "commi 7-8",
+      "numero_caso": "10",
+      "titolo": "Trasporto di cose sporgenti oltre la sagoma del veicolo. Omessa apposizione di pannelli di segnalazione",
+      "sanzione_da": 87.0,
+      "sanzione_a": 344.0,
+      "riduzione_5gg": 60.9,
+      "riduzione_meta_massimo": 172.0,
+      "riduzione_doppio_minimo": 174.0,
+      "punti": 3,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "In qualità di conducente del veicolo sopra indicato, circolava nella via indicata trasportando un carico che sporgeva, pur nei limiti consentiti, oltre la sagoma propria del veicolo ... > vedi Casi.",
+      "casi": [
+        "10.1 omettendo di segnalare la sporgenza con il prescritto pannello quadrangolare",
+        "10.2 apponendo un numero di pannelli quadrangolari in numero inferiore a quello prescritto (uno invece di",
+        "10.3 apponendo sull’estremità della sporgenza pannelli quadrangolari di segnalazione non conformi al modello",
+        "10.4 apponendo un pannello quadrangolare di segnalazione privo degli estremi di approvazione"
+      ],
+      "note_operative": [
+        "(28) Cautele in caso di carico sporgente. L’articolo 164, comma 6 del codice prescrive che quando il carico sporge oltre la",
+        "(29) Nuove disposizioni sui pannelli. Ai sensi del decreto MIT 4 dicembre 2019 (G.U. n. 19 del 24 gennaio 2020), per le disposizioni relative all’omologazione dei pannelli per la segnalazione della sporgenza longitudinal",
+        "(30) Regime transitorio. I dispositivi segnaletici prodotti sulla base dell’omologazione ai sensi dell’articolo 45 del Codice e",
+        "(31) Casistica. La violazione in argomento sussiste tutte le volte che il carico non è segnalato con l’apposito pannello o è",
+        "(32) Portabiciclette e portasci. L’apposizione dei pannelli è prevista anche nel caso di collocazione di portabiciclette e portasci che non occultano, nemmeno parzialmente, la targa del veicolo (rif. circ. Ministero dell"
+      ]
+    },
+    {
+      "articolo": "193",
+      "commi": "commi 2 e 4",
+      "numero_caso": "1",
+      "titolo": "Veicolo in circolazione sulla strada senza copertura assicurativa",
+      "sanzione_da": 866.0,
+      "sanzione_a": 3464.0,
+      "riduzione_5gg": 606.2,
+      "riduzione_meta_massimo": 1732.0,
+      "riduzione_doppio_minimo": 1732.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "1365 Obbligo dell’assicurazione di responsabilità civile teressato abbia o meno abbandonato il modello tradizionale potrà essere fatta contattando l’UCI o consultando direttamente il sito del Consiglio dei Bureaux (www.cobx.org) appena la lista sarà disponibile.",
+      "casi": [],
+      "note_operative": [
+        "(1) Vedi Note introduttive. Nel caso dei reati di cui agli articoli 589-bis e 590-bis del codice penale (omicidio e lesioni gravi e",
+        "(2) Ambito di applicazione. La presente violazione si applica ai veicoli a motore e ai rimorchi posti in circolazione (o in sosta)",
+        "(3) Per contenuto vedi punti 1 e 2 delle Note introduttive.",
+        "(4) Per assicurazione veicoli immatricolati in Italia e all’estero vedi punti 3, 4 e 5 delle Note introduttive.",
+        "(5) Per tecniche di accertamento vedi punti 9, 10, 11 e 12 delle Note introduttive.",
+        "(6) Per assicurazione scaduta da oltre o meno di 15 giorni vedi punto 12 delle Note introduttive.",
+        "(7) Per l’applicazione (eventuale) della sanzione accessoria della consca del veicolo si applicano le disposizioni dell’articolo 213. Vedi sezione “Sanzioni accessorie” e punto 17 delle Note introduttive. Il veicolo è so",
+        "(8) Restituzione veicolo. Salvo l’ipotesi di certicato o contrassegno falsicato, alterato o contraffatto, il veicolo sottoposto",
+        "(9) Istituti premiali. Per l’applicazione di istituti premiali che comportano la riduzione della sanzione vedi punto 15 delle Note",
+        "(10) Pagamento in misura ridotta o scontato. È ammesso sia il pagamento in misura ridotta sia quello in misura scontata, applicabile, quest’ultimo, anche in presenza di istituti premiali nei casi in cui è ammessa la ridu",
+        "(11) Si veda nel dettaglio punto 14 delle Note introduttive. Nel caso dei reati di cui agli articoli 589-bis e 590-bis del codice penale (omicidio e lesioni gravi e gravissime cagionate da conducenti di veicoli a motore)",
+        "(12) Ambito di applicazione. L’ipotesi ricorre solo allorché il veicolo privo di copertura assicurativa e con documenti falsi o contraffatti è guidato dallo stesso intestatario del documento di circolazione. Se, al contr",
+        "(13) Sanzione accessoria della consca obbligatoria. In questa ipotesi è sempre disposta la consca e non si procede mai"
+      ]
+    },
+    {
+      "articolo": "213",
+      "commi": "comma 5",
+      "numero_caso": "1",
+      "titolo": "Riuto ovvero omissione di trasportare o custodire a proprie spese il veicolo oggetto della misura",
+      "sanzione_da": 1814.0,
+      "sanzione_a": 7261.0,
+      "riduzione_5gg": 1814.0,
+      "riduzione_meta_massimo": 3968.5,
+      "riduzione_doppio_minimo": 3968.0,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "La persona sopra indicata riutava ovvero ometteva, benché formalmente richiesto ai sensi dell’articolo 213 del d.lgs. n. 285/1992 ... > vedi Casi.",
+      "casi": [
+        "1.1 di trasportare a proprie spese il veicolo sottoposto a sequestro amministrativo secondo le prescrizioni",
+        "1.2 di assumere la custodia del veicolo sottoposto a sequestro amministrativo con l’obbligo di depositare il"
+      ],
+      "note_operative": [
+        "(1) Contenuti e procedura. La nuova versione dell’articolo 213 introdotta in sede di convenzione del d.l. 4 ottobre 2018, n. 113,",
+        "(2) Notica verbale di sequestro. Qualora, per comprovate difcoltà oggettive, non sia stato possibile eseguire la notica e",
+        "(3) Riuto ed omissione dopo il d.l. 4 ottobre 2018, n. 113. La nuova versione dell’articolo 213 è oggi molto più rigorosa nel",
+        "(4) Circolare del Ministero dell’interno n. 300/A5721/14/101/20/21/4. Per quanto dettata a proposito di una versione dell’articolo 213 precedente, in attesa di diverse indicazioni ministeriali, si ritiene che la circolar",
+        "(5) Sanzione accessoria della sospensione della patente (o CIGC). L’agente ritira la patente di guida ai ni dell’applicazione",
+        "(6) Violazioni multiple. Se la violazione relativa al riuto di assumere la custodia del veicolo è commessa “a cascata” da più",
+        "(7) Contenuti. La violazione, dopo la sostituzione dell’articolo 213, può essere commessa solo dal custode del veicolo, sia"
+      ]
+    },
+    {
+      "articolo": "258",
+      "commi": "comma 4, d.lgs. 152/2006 e articolo 483 c.p.",
+      "numero_caso": "4",
+      "titolo": "Formulario riuti mancante",
+      "sanzione_da": 1600.0,
+      "sanzione_a": 9300.0,
+      "riduzione_5gg": 3100.0,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": [
+        "(14) Procedimento sanzionatorio. Si applicano le disposizioni della legge 24 novembre 1981, n. 689.",
+        "(15) Sanzioni e formulario falso. Se il formulario è falso vedi violazione n. 6. Si applica la pena di cui all’articolo 483 c.p. a chi,",
+        "(16) Autorità competente. Provincia (vedi nota introduttiva 9).",
+        "(17) Ambito di operatività. La violazione si applicava no a completa operatività del SISTRI e, comunque, anche dopo per",
+        "(12) Formulario di identicazione dei riuti. Durante il trasporto di riuti effettuato da enti o imprese i riuti devono essere",
+        "(13) Sanzione accessoria consca. Ai sensi dell’art. 259, comma 2, del d.lgs. n. 152/2006 il veicolo oggetto di trasporto"
+      ]
+    },
+    {
+      "articolo": "258",
+      "commi": "comma 5, d.lgs. 152/2006",
+      "numero_caso": "5",
+      "titolo": "Formulario riuti incompleto",
+      "sanzione_da": 260.0,
+      "sanzione_a": 1550.0,
+      "riduzione_5gg": 516.67,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": [
+        "(18) Casistica. Se le indicazioni del formulario sono formalmente incomplete o inesatte ma i dati riportati nella comunicazione",
+        "(19) Formulario falso. Se il formulario è falso vedi ipotesi di reato art. 258, comma 4, ed art. 483 del codice penale.",
+        "(20) Autorità competente. Provincia (vedi nota introduttiva 9).",
+        "(21) Proventi. Alla provincia (vedi nota introduttiva 9)."
+      ]
+    },
+    {
+      "articolo": "258",
+      "commi": "comma 4, d.lgs. 152/2006",
+      "numero_caso": "6",
+      "titolo": "Formulario riuti falso",
+      "sanzione_da": null,
+      "sanzione_a": null,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": []
+    },
+    {
+      "articolo": "259",
+      "commi": "comma 1, d.lgs. 152/2006",
+      "numero_caso": "7",
+      "titolo": "Trafco illecito di riuti",
+      "sanzione_da": null,
+      "sanzione_a": null,
+      "riduzione_5gg": null,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [
+        "7.1 ai sensi dell’articolo 26 del regolamento (CEE) 1° febbraio 1993, n. 259 perché … (precisare nella comunicazione notizia di reato perché il trasporto è considerato illecito)",
+        "7.2 in quanto trattasi di riuti elencati nell’Allegato II del regolamento (CEE) 1° febbraio 1993, n. 29 in violazione"
+      ],
+      "note_operative": [
+        "(23) Trafco illecito. Chiunque effettua una spedizione di riuti costituente trafco illecito ai sensi dell’articolo 26 del",
+        "(22) Tipologia sanzioni. Si tratta di una ipotesi di reato. Redigere comunicazione di notizia di reato. Nell’immediatezza redigere",
+        "(24) Consca veicolo. Alla sentenza di condanna, o a quella emessa ai sensi dell’articolo 444 del codice di procedura penale,",
+        "(25) Tipologia sanzioni. Si tratta di una ipotesi di reato. Redigere comunicazione di notizia di reato. Nell’immediatezza redigere i"
+      ]
+    },
+    {
+      "articolo": "260-bis",
+      "commi": "comma 1, d.lgs. 152/2006",
+      "numero_caso": "8",
+      "titolo": "Omessa iscrizione al SISTRI (illeciti commessi in vigenza di SISTRI) – Riuti non pericolosi",
+      "sanzione_da": 2600.0,
+      "sanzione_a": 15500.0,
+      "riduzione_5gg": 5166.67,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": [
+        "(26) In caso di riuti pericolosi si applica la sanzione amministrativa pecuniaria da € 15.500,00 a € 93.000,00. P.M.R. € 31.000,00.",
+        "(27) Entrata in vigore SISTRI. Il comma 1134 dell’articolo 1 della legge 205/2017, ha posticipato al 31 dicembre 2018 l’applicazione",
+        "(28) Autorità competente. Provincia (vedi Nota introduttiva 9).",
+        "(29) Proventi. Alla provincia (vedi Nota introduttiva 9)."
+      ]
+    },
+    {
+      "articolo": "260-bis",
+      "commi": "comma 7, d.lgs. n. 152/2006",
+      "numero_caso": "9",
+      "titolo": "Mancanza della scheda SISTRI durante il trasporto (illeciti commessi in vigenza di SISTRI)",
+      "sanzione_da": 1600.0,
+      "sanzione_a": 9300.0,
+      "riduzione_5gg": 3100.0,
+      "riduzione_meta_massimo": null,
+      "riduzione_doppio_minimo": null,
+      "punti": 0,
+      "sanzioni_accessorie": "non previste",
+      "testo_precompilato": "",
+      "casi": [],
+      "note_operative": [
+        "(30) Vedi Note introduttive relative al SISTRI, tenendo conto che il d.l. 14 dicembre 2018, n. 135 ha disposto la soppressione del",
+        "(31) In caso di trasporto di riuti non pericolosi eseguito da soggetto non aderente su base volontaria al SISTRI, senza il",
+        "(32) All’accertamento delle violazioni di cui ai commi 7 e 8 dell’art. 260-bis consegue obbligatoriamente la sanzione",
+        "(1) Accordo valido sino al 12 luglio 2026.",
+        "(2) Circolare MIT prot. MOT3/2166/M340 del 13 aprile 2006. A partire dal 1° maggio 2006, non sono più accettate istanze",
+        "(3) Accordo valido sino al 30 marzo 2028.",
+        "(4) Accordo valido sino al 12 luglio 2026.",
+        "(5) Accordo valido sino al 18 luglio 2028.",
+        "(6) Accordo valido sino al 24 gennaio 2027."
+      ]
+    }
+  ]
+}
