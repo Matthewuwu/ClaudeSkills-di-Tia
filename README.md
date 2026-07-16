@@ -63,7 +63,7 @@ git push
 From then on, every session in that project runs the hook, which checks out the
 submodule (if needed) and syncs the skills into `~/.claude/skills`.
 
-## Update a skill everywhere
+## Update a skill everywhere (repo → projects)
 
 ```bash
 # edit a skill in this repo, then:
@@ -75,6 +75,23 @@ git commit -am "Bump shared skills" && git push
 ```
 
 The next session in the consumer project picks up the new version automatically.
+
+## Publish a skill you created/edited in a project (project → repo)
+
+If you added a new skill, or tweaked an existing one, while working inside a
+consumer project (in `.claude/skills/` there, or in your personal
+`~/.claude/skills/`), bring it back into this repo with:
+
+```bash
+# from the root of the consumer project:
+.claude/skills-shared/scripts/export-new-skills.sh
+```
+
+It compares your local skills against `.claude/skills-shared`, lists what's
+new or changed, and — only after you confirm — copies them into the
+submodule's working tree. **It never runs `git commit` or `git push` itself**;
+it prints the exact commands (submodule first, then bump the pointer in the
+consumer project) so publishing is always an explicit step you review.
 
 ## Notes
 
